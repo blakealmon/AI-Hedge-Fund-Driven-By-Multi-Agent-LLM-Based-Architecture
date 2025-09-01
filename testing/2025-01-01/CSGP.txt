@@ -1,0 +1,6 @@
+TICKER: CSGP
+DATE: 2025-01-01
+DECISION: HOLD
+RATIONALE:
+Error during analysis: Recursion limit of 100 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT

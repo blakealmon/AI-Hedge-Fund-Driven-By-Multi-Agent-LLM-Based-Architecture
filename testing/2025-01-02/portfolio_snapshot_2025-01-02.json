@@ -1,0 +1,2252 @@
+{
+  "portfolio": {
+    "A": {
+      "totalAmount": 0,
+      "last_price": 133.43
+    },
+    "AAPL": {
+      "totalAmount": 54,
+      "last_price": 243.85,
+      "entry_price": 243.85
+    },
+    "ABBV": {
+      "totalAmount": 0,
+      "last_price": 179.44
+    },
+    "ABNB": {
+      "totalAmount": 124,
+      "last_price": 131.48,
+      "entry_price": 131.48
+    },
+    "ABT": {
+      "totalAmount": 32,
+      "last_price": 113.44,
+      "entry_price": 113.44
+    },
+    "ACGL": {
+      "totalAmount": 28,
+      "last_price": 91.37999725341795,
+      "entry_price": 91.37999725341795
+    },
+    "ACN": {
+      "totalAmount": 12,
+      "last_price": 343.90997314453125,
+      "entry_price": 343.90997314453125
+    },
+    "ADBE": {
+      "totalAmount": 0,
+      "last_price": 441.0
+    },
+    "ADI": {
+      "totalAmount": 25,
+      "last_price": 209.4806671142578,
+      "entry_price": 209.4806671142578
+    },
+    "ADM": {
+      "totalAmount": 25,
+      "last_price": 48.74132537841797,
+      "entry_price": 48.74132537841797
+    },
+    "ADP": {
+      "totalAmount": 27,
+      "last_price": 286.6823425292969,
+      "entry_price": 286.6823425292969
+    },
+    "ADSK": {
+      "totalAmount": 0,
+      "last_price": 293.32000732421875
+    },
+    "AEE": {
+      "totalAmount": 0,
+      "last_price": 87.69947052001953
+    },
+    "AEP": {
+      "totalAmount": 0,
+      "last_price": 89.54434967041016
+    },
+    "AES": {
+      "totalAmount": 15,
+      "last_price": 12.451201438903809,
+      "entry_price": 12.451201438903809
+    },
+    "AFL": {
+      "totalAmount": 75,
+      "last_price": 100.68230438232422,
+      "entry_price": 102.36
+    },
+    "AIG": {
+      "totalAmount": 0,
+      "last_price": 72.24791717529297
+    },
+    "AIZ": {
+      "totalAmount": 0,
+      "last_price": 209.79592895507812
+    },
+    "AJG": {
+      "totalAmount": 3,
+      "last_price": 274.81683349609375,
+      "entry_price": 275.89
+    },
+    "AKAM": {
+      "totalAmount": 0,
+      "last_price": 95.41999816894533
+    },
+    "ALB": {
+      "totalAmount": 0,
+      "last_price": 84.203857421875
+    },
+    "ALGN": {
+      "totalAmount": 0,
+      "last_price": 208.4900054931641
+    },
+    "ALL": {
+      "totalAmount": 0,
+      "last_price": 189.14292907714844
+    },
+    "ALLE": {
+      "totalAmount": 14,
+      "last_price": 127.59429931640624,
+      "entry_price": 127.59429931640624
+    },
+    "AMAT": {
+      "totalAmount": 25,
+      "last_price": 162.5639190673828,
+      "entry_price": 162.5639190673828
+    },
+    "AMCR": {
+      "totalAmount": 355,
+      "last_price": 9.10527801513672,
+      "entry_price": 9.10527801513672
+    },
+    "AMD": {
+      "totalAmount": 72,
+      "last_price": 120.62999725341795,
+      "entry_price": 120.62999725341795
+    },
+    "AME": {
+      "totalAmount": 30,
+      "last_price": 177.7036590576172,
+      "entry_price": 177.7036590576172
+    },
+    "AMGN": {
+      "totalAmount": 13,
+      "last_price": 252.8973846435547,
+      "entry_price": 252.8973846435547
+    },
+    "AMP": {
+      "totalAmount": 14,
+      "last_price": 525.077880859375,
+      "entry_price": 525.077880859375
+    },
+    "AMT": {
+      "totalAmount": 12,
+      "last_price": 178.1505889892578,
+      "entry_price": 178.1505889892578
+    },
+    "AMZN": {
+      "totalAmount": 0,
+      "last_price": 220.22000122070312
+    },
+    "ANET": {
+      "totalAmount": 39,
+      "last_price": 111.79000091552734,
+      "entry_price": 111.79000091552734
+    },
+    "ANSS": {
+      "totalAmount": 0,
+      "last_price": 336.05999755859375
+    },
+    "AON": {
+      "totalAmount": 13,
+      "last_price": 352.8492431640625,
+      "entry_price": 352.8492431640625
+    },
+    "AOS": {
+      "totalAmount": 44,
+      "last_price": 66.33011627197266,
+      "entry_price": 66.33011627197266
+    },
+    "APA": {
+      "totalAmount": 0,
+      "last_price": 22.4543399810791
+    },
+    "APD": {
+      "totalAmount": 0,
+      "last_price": 279.78369140625
+    },
+    "APH": {
+      "totalAmount": 0,
+      "last_price": 68.71006774902344
+    },
+    "APO": {
+      "totalAmount": 79,
+      "last_price": 164.19955444335938,
+      "entry_price": 164.19955444335938
+    },
+    "APTV": {
+      "totalAmount": 0,
+      "last_price": 60.3
+    },
+    "ARE": {
+      "totalAmount": 0,
+      "last_price": 97.5
+    },
+    "ATO": {
+      "totalAmount": 36,
+      "last_price": 138.29,
+      "entry_price": 136.021484375
+    },
+    "AVB": {
+      "totalAmount": 0,
+      "last_price": 217.07
+    },
+    "AVGO": {
+      "totalAmount": 3,
+      "last_price": 231.98,
+      "entry_price": 230.737060546875
+    },
+    "AVY": {
+      "totalAmount": 39,
+      "last_price": 181.4658966064453,
+      "entry_price": 181.4658966064453
+    },
+    "AWK": {
+      "totalAmount": 5,
+      "last_price": 121.66448974609376,
+      "entry_price": 121.66448974609376
+    },
+    "AXON": {
+      "totalAmount": 9,
+      "last_price": 596.489990234375,
+      "entry_price": 596.489990234375
+    },
+    "AXP": {
+      "totalAmount": 0,
+      "last_price": 295.99755859375
+    },
+    "AZO": {
+      "totalAmount": 0,
+      "last_price": 3250.0
+    },
+    "BA": {
+      "totalAmount": 0,
+      "last_price": 171.8699951171875
+    },
+    "BAC": {
+      "totalAmount": 0,
+      "last_price": 43.75440979003906
+    },
+    "BALL": {
+      "totalAmount": 0,
+      "last_price": 54.03091812133789
+    },
+    "BAX": {
+      "totalAmount": 49,
+      "last_price": 28.755294799804688,
+      "entry_price": 28.755294799804688
+    },
+    "BBY": {
+      "totalAmount": 25,
+      "last_price": 83.92326354980469,
+      "entry_price": 83.92326354980469
+    },
+    "BDX": {
+      "totalAmount": 0,
+      "last_price": 224.1119384765625
+    },
+    "BEN": {
+      "totalAmount": 0,
+      "last_price": 19.53580093383789
+    },
+    "BG": {
+      "totalAmount": 53,
+      "last_price": 75.5006103515625,
+      "entry_price": 75.5006103515625
+    },
+    "BIIB": {
+      "totalAmount": 0,
+      "last_price": 150.0
+    },
+    "BK": {
+      "totalAmount": 0,
+      "last_price": 76.1063003540039
+    },
+    "BKNG": {
+      "totalAmount": 0,
+      "last_price": 4906.75048828125
+    },
+    "BKR": {
+      "totalAmount": 65,
+      "last_price": 40.88348007202149,
+      "entry_price": 40.88348007202149
+    },
+    "BLDR": {
+      "totalAmount": 0,
+      "last_price": 141.97999572753906
+    },
+    "BLK": {
+      "totalAmount": 0,
+      "last_price": 1006.5457153320312
+    },
+    "BMY": {
+      "totalAmount": 0,
+      "last_price": 54.8443717956543
+    },
+    "BR": {
+      "totalAmount": 0,
+      "last_price": 225.1188812255859
+    },
+    "BRO": {
+      "totalAmount": 0,
+      "last_price": 100.10360717773438
+    },
+    "BSX": {
+      "totalAmount": 29,
+      "last_price": 89.37999725341797,
+      "entry_price": 89.37999725341797
+    },
+    "BWA": {
+      "totalAmount": 85,
+      "last_price": 31.100540161132812,
+      "entry_price": 31.100540161132812
+    },
+    "BX": {
+      "totalAmount": 0,
+      "last_price": 170.04054260253906
+    },
+    "BXP": {
+      "totalAmount": 0,
+      "last_price": 71.59521484375
+    },
+    "C": {
+      "totalAmount": 0,
+      "last_price": 68.45777130126953
+    },
+    "CAG": {
+      "totalAmount": 380,
+      "last_price": 26.417749404907227,
+      "entry_price": 26.417749404907227
+    },
+    "CAH": {
+      "totalAmount": 0,
+      "last_price": 117.22887420654295
+    },
+    "CARR": {
+      "totalAmount": 0,
+      "last_price": 67.90975952148438
+    },
+    "CAT": {
+      "totalAmount": 9,
+      "last_price": 355.4361267089844,
+      "entry_price": 355.4361267089844
+    },
+    "CB": {
+      "totalAmount": 0,
+      "last_price": 270.7496337890625
+    },
+    "CBOE": {
+      "totalAmount": 52,
+      "last_price": 195.30206298828125,
+      "entry_price": 195.30206298828125
+    },
+    "CBRE": {
+      "totalAmount": 43,
+      "last_price": 129.89999389648438,
+      "entry_price": 129.89999389648438
+    },
+    "CCI": {
+      "totalAmount": 49,
+      "last_price": 86.85801696777344,
+      "entry_price": 86.85801696777344
+    },
+    "CCL": {
+      "totalAmount": 542,
+      "last_price": 25.010000228881836,
+      "entry_price": 25.010000228881836
+    },
+    "CDNS": {
+      "totalAmount": 0,
+      "last_price": 297.6600036621094
+    },
+    "CDW": {
+      "totalAmount": 6,
+      "last_price": 168.2511749267578,
+      "entry_price": 168.2511749267578
+    },
+    "CE": {
+      "totalAmount": 109,
+      "last_price": 68.29869079589844,
+      "entry_price": 68.29869079589844
+    },
+    "CEG": {
+      "totalAmount": 24,
+      "last_price": 241.52525329589844,
+      "entry_price": 241.52525329589844
+    },
+    "CF": {
+      "totalAmount": 0,
+      "last_price": 84.30977630615234
+    },
+    "CFG": {
+      "totalAmount": 0,
+      "last_price": 42.36924743652344
+    },
+    "CHD": {
+      "totalAmount": 33,
+      "last_price": 102.89834594726562,
+      "entry_price": 102.89834594726562
+    },
+    "CHRW": {
+      "totalAmount": 0,
+      "last_price": 101.4675750732422
+    },
+    "CHTR": {
+      "totalAmount": 15,
+      "last_price": 349.3500061035156,
+      "entry_price": 349.3500061035156
+    },
+    "CI": {
+      "totalAmount": 0,
+      "last_price": 271.8385925292969
+    },
+    "CINF": {
+      "totalAmount": 0,
+      "last_price": 140.78155517578125
+    },
+    "CL": {
+      "totalAmount": 0,
+      "last_price": 89.00501251220703
+    },
+    "CLX": {
+      "totalAmount": 12,
+      "last_price": 157.60531616210938,
+      "entry_price": 157.60531616210938
+    },
+    "CMCSA": {
+      "totalAmount": 0,
+      "last_price": 36.44047164916992
+    },
+    "CME": {
+      "totalAmount": 0,
+      "last_price": 230.51937866210935
+    },
+    "CMG": {
+      "totalAmount": 36,
+      "last_price": 59.88999938964844,
+      "entry_price": 59.88999938964844
+    },
+    "CMI": {
+      "totalAmount": 0,
+      "last_price": 342.30145263671875
+    },
+    "CMS": {
+      "totalAmount": 37,
+      "last_price": 65.04151153564453,
+      "entry_price": 65.04151153564453
+    },
+    "CNC": {
+      "totalAmount": 0,
+      "last_price": 60.5099983215332
+    },
+    "CNP": {
+      "totalAmount": 0,
+      "last_price": 30.92085647583008
+    },
+    "COF": {
+      "totalAmount": 0,
+      "last_price": 177.13059997558594
+    },
+    "COO": {
+      "totalAmount": 86,
+      "last_price": 90.66000366210938,
+      "entry_price": 90.66000366210938
+    },
+    "COP": {
+      "totalAmount": 0,
+      "last_price": 97.63123321533205
+    },
+    "COR": {
+      "totalAmount": 8,
+      "last_price": 223.38580322265625,
+      "entry_price": 223.38580322265625
+    },
+    "COST": {
+      "totalAmount": 0,
+      "last_price": 906.3675537109376
+    },
+    "CPAY": {
+      "totalAmount": 21,
+      "last_price": 339.92999267578125,
+      "entry_price": 339.92999267578125
+    },
+    "CPB": {
+      "totalAmount": 150,
+      "last_price": 41.10573959350586,
+      "entry_price": 41.10573959350586
+    },
+    "CPRT": {
+      "totalAmount": 0,
+      "last_price": 56.31999969482422
+    },
+    "CPT": {
+      "totalAmount": 43,
+      "last_price": 112.64601135253906,
+      "entry_price": 112.64601135253906
+    },
+    "CRL": {
+      "totalAmount": 0,
+      "last_price": 182.63999938964844
+    },
+    "CRM": {
+      "totalAmount": 19,
+      "last_price": 329.61859130859375,
+      "entry_price": 329.61859130859375
+    },
+    "CRWD": {
+      "totalAmount": 14,
+      "last_price": 347.3399963378906,
+      "entry_price": 347.3399963378906
+    },
+    "CSCO": {
+      "totalAmount": 0,
+      "last_price": 57.96213912963867
+    },
+    "CSGP": {
+      "totalAmount": 39,
+      "last_price": 70.83000183105469,
+      "entry_price": 70.83000183105469
+    },
+    "CSX": {
+      "totalAmount": 0,
+      "last_price": 31.769906997680664
+    },
+    "CTAS": {
+      "totalAmount": 0,
+      "last_price": 181.04554748535156
+    },
+    "CTRA": {
+      "totalAmount": 0,
+      "last_price": 25.46700096130371
+    },
+    "CTSH": {
+      "totalAmount": 0,
+      "last_price": 75.52304077148438
+    },
+    "CTVA": {
+      "totalAmount": 50,
+      "last_price": 56.053009033203125,
+      "entry_price": 56.053009033203125
+    },
+    "CVS": {
+      "totalAmount": 60,
+      "last_price": 42.753231048583984,
+      "entry_price": 42.753231048583984
+    },
+    "CVX": {
+      "totalAmount": 10,
+      "last_price": 141.77622985839844,
+      "entry_price": 141.77622985839844
+    },
+    "CZR": {
+      "totalAmount": 105,
+      "last_price": 32.59000015258789,
+      "entry_price": 32.59000015258789
+    },
+    "D": {
+      "totalAmount": 1,
+      "last_price": 53.11398696899414,
+      "entry_price": 53.11398696899414
+    },
+    "DAL": {
+      "totalAmount": 195,
+      "last_price": 58.547481536865234,
+      "entry_price": 58.547481536865234
+    },
+    "DAY": {
+      "totalAmount": 0,
+      "last_price": 71.38999938964844
+    },
+    "DD": {
+      "totalAmount": 0,
+      "last_price": 74.21167755126953
+    },
+    "DE": {
+      "totalAmount": 6,
+      "last_price": 415.408935546875,
+      "entry_price": 415.408935546875
+    },
+    "DECK": {
+      "totalAmount": 0,
+      "last_price": 204.5399932861328
+    },
+    "DELL": {
+      "totalAmount": 0,
+      "last_price": 114.85604858398438
+    },
+    "DG": {
+      "totalAmount": 0,
+      "last_price": 74.18231964111328
+    },
+    "DGX": {
+      "totalAmount": 0,
+      "last_price": 148.81692504882812
+    },
+    "DHI": {
+      "totalAmount": 0,
+      "last_price": 136.44326782226562
+    },
+    "DHR": {
+      "totalAmount": 0,
+      "last_price": 229.09552001953125
+    },
+    "DIS": {
+      "totalAmount": 23,
+      "last_price": 110.34942626953124,
+      "entry_price": 110.34942626953124
+    },
+    "DLR": {
+      "totalAmount": 17,
+      "last_price": 174.30734252929688,
+      "entry_price": 174.30734252929688
+    },
+    "DLTR": {
+      "totalAmount": 95,
+      "last_price": 76.47000122070312,
+      "entry_price": 76.47000122070312
+    },
+    "DOC": {
+      "totalAmount": 0,
+      "last_price": 19.29141616821289
+    },
+    "DOV": {
+      "totalAmount": 29,
+      "last_price": 184.09410095214844,
+      "entry_price": 184.09410095214844
+    },
+    "DOW": {
+      "totalAmount": 0,
+      "last_price": 37.3458137512207
+    },
+    "DPZ": {
+      "totalAmount": 0,
+      "last_price": 431.493408203125
+    },
+    "DRI": {
+      "totalAmount": 9,
+      "last_price": 182.4919281005859,
+      "entry_price": 182.4919281005859
+    },
+    "DTE": {
+      "totalAmount": 48,
+      "last_price": 119.12628173828124,
+      "entry_price": 119.12628173828124
+    },
+    "DUK": {
+      "totalAmount": 0,
+      "last_price": 104.96094512939452
+    },
+    "DVA": {
+      "totalAmount": 96,
+      "last_price": 149.82000732421875,
+      "entry_price": 149.82000732421875
+    },
+    "DVN": {
+      "totalAmount": 27,
+      "last_price": 32.93093490600586,
+      "entry_price": 32.93093490600586
+    },
+    "DXCM": {
+      "totalAmount": 0,
+      "last_price": 78.5
+    },
+    "EA": {
+      "totalAmount": 14,
+      "last_price": 145.34060668945312,
+      "entry_price": 145.34060668945312
+    },
+    "EBAY": {
+      "totalAmount": 0,
+      "last_price": 61.548858642578125
+    },
+    "ECL": {
+      "totalAmount": 15,
+      "last_price": 229.77151489257812,
+      "entry_price": 229.77151489257812
+    },
+    "ED": {
+      "totalAmount": 1,
+      "last_price": 86.77679443359375,
+      "entry_price": 86.77679443359375
+    },
+    "EFX": {
+      "totalAmount": 9,
+      "last_price": 250.24807739257812,
+      "entry_price": 250.24807739257812
+    },
+    "EG": {
+      "totalAmount": 0,
+      "last_price": 359.2018737792969
+    },
+    "EIX": {
+      "totalAmount": 41,
+      "last_price": 76.73968505859375,
+      "entry_price": 76.73968505859375
+    },
+    "EL": {
+      "totalAmount": 54,
+      "last_price": 73.2499008178711,
+      "entry_price": 73.2499008178711
+    },
+    "ELV": {
+      "totalAmount": 4,
+      "last_price": 362.7032775878906,
+      "entry_price": 362.7032775878906
+    },
+    "EMN": {
+      "totalAmount": 24,
+      "last_price": 86.78643798828125,
+      "entry_price": 86.78643798828125
+    },
+    "EMR": {
+      "totalAmount": 0,
+      "last_price": 120.65496826171876
+    },
+    "ENPH": {
+      "totalAmount": 19,
+      "last_price": 71.36000061035156,
+      "entry_price": 71.36000061035156
+    },
+    "EOG": {
+      "totalAmount": 0,
+      "last_price": 121.69884490966795
+    },
+    "EPAM": {
+      "totalAmount": 0,
+      "last_price": 229.16000366210935
+    },
+    "EQIX": {
+      "totalAmount": 0,
+      "last_price": 928.6505126953124
+    },
+    "EQR": {
+      "totalAmount": 10,
+      "last_price": 68.69341278076172,
+      "entry_price": 68.69341278076172
+    },
+    "EQT": {
+      "totalAmount": 0,
+      "last_price": 46.926544189453125
+    },
+    "ERIE": {
+      "totalAmount": 4,
+      "last_price": 405.0891723632813,
+      "entry_price": 405.0891723632813
+    },
+    "ES": {
+      "totalAmount": 28,
+      "last_price": 55.95938873291016,
+      "entry_price": 55.95938873291016
+    },
+    "ESS": {
+      "totalAmount": 0,
+      "last_price": 274.6765441894531
+    },
+    "ETN": {
+      "totalAmount": 2,
+      "last_price": 328.6437683105469,
+      "entry_price": 328.6437683105469
+    },
+    "ETR": {
+      "totalAmount": 0,
+      "last_price": 73.82172393798828
+    },
+    "EVRG": {
+      "totalAmount": 32,
+      "last_price": 59.83977508544922,
+      "entry_price": 59.83977508544922
+    },
+    "EW": {
+      "totalAmount": 20,
+      "last_price": 72.58999633789062,
+      "entry_price": 72.58999633789062
+    },
+    "EXC": {
+      "totalAmount": 0,
+      "last_price": 36.65628433227539
+    },
+    "EXPD": {
+      "totalAmount": 0,
+      "last_price": 109.2685089111328
+    },
+    "EXPE": {
+      "totalAmount": 0,
+      "last_price": 184.1529235839844
+    },
+    "EXR": {
+      "totalAmount": 0,
+      "last_price": 144.55064392089844
+    },
+    "F": {
+      "totalAmount": 322,
+      "last_price": 9.088186264038086,
+      "entry_price": 9.088186264038086
+    },
+    "FANG": {
+      "totalAmount": 68,
+      "last_price": 163.29273986816406,
+      "entry_price": 163.29273986816406
+    },
+    "FAST": {
+      "totalAmount": 0,
+      "last_price": 34.981971740722656
+    },
+    "FCX": {
+      "totalAmount": 5,
+      "last_price": 37.44493865966797,
+      "entry_price": 37.44493865966797
+    },
+    "FDS": {
+      "totalAmount": 13,
+      "last_price": 472.9085083007813,
+      "entry_price": 472.9085083007813
+    },
+    "FDX": {
+      "totalAmount": 0,
+      "last_price": 271.0394592285156
+    },
+    "FE": {
+      "totalAmount": 67,
+      "last_price": 38.67995071411133,
+      "entry_price": 38.67995071411133
+    },
+    "FFIV": {
+      "totalAmount": 21,
+      "last_price": 251.75,
+      "entry_price": 251.75
+    },
+    "FI": {
+      "totalAmount": 0,
+      "last_price": 205.97999572753903
+    },
+    "FICO": {
+      "totalAmount": 0,
+      "last_price": 1995.9200439453125
+    },
+    "FIS": {
+      "totalAmount": 0,
+      "last_price": 79.25053405761719
+    },
+    "FITB": {
+      "totalAmount": 214,
+      "last_price": 41.39566421508789,
+      "entry_price": 41.39566421508789
+    },
+    "FMC": {
+      "totalAmount": 65,
+      "last_price": 47.42052459716797,
+      "entry_price": 47.42052459716797
+    },
+    "FOX": {
+      "totalAmount": 0,
+      "last_price": 46.00269317626953
+    },
+    "FOXA": {
+      "totalAmount": 56,
+      "last_price": 48.75472259521485,
+      "entry_price": 48.75472259521485
+    },
+    "FRT": {
+      "totalAmount": 0,
+      "last_price": 106.47737121582033
+    },
+    "FSLR": {
+      "totalAmount": 0,
+      "last_price": 186.47000122070312
+    },
+    "FTNT": {
+      "totalAmount": 136,
+      "last_price": 94.75,
+      "entry_price": 94.75
+    },
+    "FTV": {
+      "totalAmount": 0,
+      "last_price": 56.01749801635742
+    },
+    "GD": {
+      "totalAmount": 0,
+      "last_price": 256.8808898925781
+    },
+    "GDDY": {
+      "totalAmount": 0,
+      "last_price": 198.91000366210935
+    },
+    "GE": {
+      "totalAmount": 0,
+      "last_price": 168.03150939941406
+    },
+    "GEHC": {
+      "totalAmount": 5,
+      "last_price": 78.27128601074219,
+      "entry_price": 78.27128601074219
+    },
+    "GEN": {
+      "totalAmount": 0,
+      "last_price": 27.130516052246097
+    },
+    "GEV": {
+      "totalAmount": 0,
+      "last_price": 338.534423828125
+    },
+    "GILD": {
+      "totalAmount": 54,
+      "last_price": 90.59635925292967,
+      "entry_price": 90.59635925292967
+    },
+    "GIS": {
+      "totalAmount": 43,
+      "last_price": 61.52272033691406,
+      "entry_price": 61.52272033691406
+    },
+    "GL": {
+      "totalAmount": 14,
+      "last_price": 111.52033996582033,
+      "entry_price": 111.52033996582033
+    },
+    "GLW": {
+      "totalAmount": 0,
+      "last_price": 45.99519348144531
+    },
+    "GM": {
+      "totalAmount": 0,
+      "last_price": 51.07673263549805
+    },
+    "GNRC": {
+      "totalAmount": 3,
+      "last_price": 157.0,
+      "entry_price": 157.0
+    },
+    "GOOG": {
+      "totalAmount": 0,
+      "last_price": 190.18446350097656
+    },
+    "GOOGL": {
+      "totalAmount": 4,
+      "last_price": 188.98329162597656,
+      "entry_price": 188.98329162597656
+    },
+    "GPC": {
+      "totalAmount": 21,
+      "last_price": 114.17093658447266,
+      "entry_price": 114.17093658447266
+    },
+    "GPN": {
+      "totalAmount": 0,
+      "last_price": 111.2401123046875
+    },
+    "GRMN": {
+      "totalAmount": 29,
+      "last_price": 202.90611267089844,
+      "entry_price": 202.90611267089844
+    },
+    "GS": {
+      "totalAmount": 0,
+      "last_price": 566.2639770507812
+    },
+    "GWW": {
+      "totalAmount": 0,
+      "last_price": 1034.9150390625
+    },
+    "HAL": {
+      "totalAmount": 11,
+      "last_price": 27.305681228637695,
+      "entry_price": 27.305681228637695
+    },
+    "HAS": {
+      "totalAmount": 0,
+      "last_price": 54.76854705810547
+    },
+    "HBAN": {
+      "totalAmount": 296,
+      "last_price": 15.912396430969238,
+      "entry_price": 15.912396430969238
+    },
+    "HCA": {
+      "totalAmount": 0,
+      "last_price": 296.50250244140625
+    },
+    "HD": {
+      "totalAmount": 10,
+      "last_price": 383.6262817382813,
+      "entry_price": 383.6262817382813
+    },
+    "HES": {
+      "totalAmount": 21,
+      "last_price": 134.48855590820312,
+      "entry_price": 134.48855590820312
+    },
+    "HIG": {
+      "totalAmount": 33,
+      "last_price": 108.12583923339844,
+      "entry_price": 108.12583923339844
+    },
+    "HII": {
+      "totalAmount": 0,
+      "last_price": 184.12576293945312
+    },
+    "HLT": {
+      "totalAmount": 0,
+      "last_price": 244.70079040527344
+    },
+    "HOLX": {
+      "totalAmount": 1,
+      "last_price": 71.73999786376953,
+      "entry_price": 71.73999786376953
+    },
+    "HON": {
+      "totalAmount": 0,
+      "last_price": 222.0233612060547
+    },
+    "HPE": {
+      "totalAmount": 0,
+      "last_price": 21.143348693847656
+    },
+    "HPQ": {
+      "totalAmount": 0,
+      "last_price": 31.77870178222656
+    },
+    "HRL": {
+      "totalAmount": 0,
+      "last_price": 30.62327766418457
+    },
+    "HSIC": {
+      "totalAmount": 84,
+      "last_price": 68.55000305175781,
+      "entry_price": 68.55000305175781
+    },
+    "HST": {
+      "totalAmount": 99,
+      "last_price": 16.74371910095215,
+      "entry_price": 16.74371910095215
+    },
+    "HSY": {
+      "totalAmount": 0,
+      "last_price": 164.6901092529297
+    },
+    "HUBB": {
+      "totalAmount": 0,
+      "last_price": 415.8619995117187
+    },
+    "HUM": {
+      "totalAmount": 25,
+      "last_price": 250.89404296875,
+      "entry_price": 250.89404296875
+    },
+    "HWM": {
+      "totalAmount": 22,
+      "last_price": 110.56071472167967,
+      "entry_price": 110.56071472167967
+    },
+    "IBM": {
+      "totalAmount": 0,
+      "last_price": 215.58255004882812
+    },
+    "ICE": {
+      "totalAmount": 20,
+      "last_price": 148.52178955078125,
+      "entry_price": 148.52178955078125
+    },
+    "IDXX": {
+      "totalAmount": 0,
+      "last_price": 408.8500061035156
+    },
+    "IEX": {
+      "totalAmount": 19,
+      "last_price": 203.8578338623047,
+      "entry_price": 203.8578338623047
+    },
+    "IFF": {
+      "totalAmount": 0,
+      "last_price": 82.23161315917969
+    },
+    "INCY": {
+      "totalAmount": 0,
+      "last_price": 69.52999877929688
+    },
+    "INTC": {
+      "totalAmount": 35,
+      "last_price": 20.219999313354492,
+      "entry_price": 20.219999313354492
+    },
+    "INTU": {
+      "totalAmount": 0,
+      "last_price": 619.8326416015625
+    },
+    "INVH": {
+      "totalAmount": 110,
+      "last_price": 30.89060401916504,
+      "entry_price": 30.89060401916504
+    },
+    "IP": {
+      "totalAmount": 248,
+      "last_price": 51.70890045166016,
+      "entry_price": 51.70890045166016
+    },
+    "IPG": {
+      "totalAmount": 73,
+      "last_price": 27.4084415435791,
+      "entry_price": 27.4084415435791
+    },
+    "IQV": {
+      "totalAmount": 0,
+      "last_price": 195.1199951171875
+    },
+    "IR": {
+      "totalAmount": 0,
+      "last_price": 90.45362091064452
+    },
+    "IRM": {
+      "totalAmount": 0,
+      "last_price": 102.98876953125
+    },
+    "ISRG": {
+      "totalAmount": 0,
+      "last_price": 524.030029296875
+    },
+    "IT": {
+      "totalAmount": 0,
+      "last_price": 483.2999877929687
+    },
+    "ITW": {
+      "totalAmount": 0,
+      "last_price": 247.00555419921875
+    },
+    "IVZ": {
+      "totalAmount": 15,
+      "last_price": 17.051334381103516,
+      "entry_price": 17.051334381103516
+    },
+    "J": {
+      "totalAmount": 12,
+      "last_price": 130.70071411132812,
+      "entry_price": 130.70071411132812
+    },
+    "JBHT": {
+      "totalAmount": 0,
+      "last_price": 169.67416381835938
+    },
+    "JBL": {
+      "totalAmount": 0,
+      "last_price": 142.64169311523438
+    },
+    "JCI": {
+      "totalAmount": 35,
+      "last_price": 78.31249237060547,
+      "entry_price": 78.31249237060547
+    },
+    "JKHY": {
+      "totalAmount": 0,
+      "last_price": 171.85609436035156
+    },
+    "JNJ": {
+      "totalAmount": 1,
+      "last_price": 140.629638671875,
+      "entry_price": 140.629638671875
+    },
+    "JNPR": {
+      "totalAmount": 116,
+      "last_price": 37.32047653198242,
+      "entry_price": 37.32047653198242
+    },
+    "JPM": {
+      "totalAmount": 0,
+      "last_price": 236.1674041748047
+    },
+    "K": {
+      "totalAmount": 30,
+      "last_price": 79.94731903076172,
+      "entry_price": 79.94731903076172
+    },
+    "KDP": {
+      "totalAmount": 0,
+      "last_price": 31.100311279296875
+    },
+    "KEY": {
+      "totalAmount": 93,
+      "last_price": 16.55526351928711,
+      "entry_price": 16.55526351928711
+    },
+    "KEYS": {
+      "totalAmount": 0,
+      "last_price": 160.83999633789062
+    },
+    "KHC": {
+      "totalAmount": 181,
+      "last_price": 29.49374008178711,
+      "entry_price": 30.77
+    },
+    "KIM": {
+      "totalAmount": 276,
+      "last_price": 22.429927825927734,
+      "entry_price": 22.97
+    },
+    "KKR": {
+      "totalAmount": 2,
+      "last_price": 148.57623291015625,
+      "entry_price": 149.19
+    },
+    "KLAC": {
+      "totalAmount": 0,
+      "last_price": 632.2837524414062
+    },
+    "KMB": {
+      "totalAmount": 0,
+      "last_price": 128.2684783935547
+    },
+    "KMI": {
+      "totalAmount": 0,
+      "last_price": 27.228046417236328
+    },
+    "KMX": {
+      "totalAmount": 22,
+      "last_price": 81.22000122070312,
+      "entry_price": 81.22000122070312
+    },
+    "KO": {
+      "totalAmount": 0,
+      "last_price": 60.953609466552734
+    },
+    "KR": {
+      "totalAmount": 0,
+      "last_price": 61.030555725097656
+    },
+    "KVUE": {
+      "totalAmount": 0,
+      "last_price": 20.690404891967773
+    },
+    "L": {
+      "totalAmount": 0,
+      "last_price": 83.98295593261719
+    },
+    "LDOS": {
+      "totalAmount": 15,
+      "last_price": 142.48544311523438,
+      "entry_price": 142.48544311523438
+    },
+    "LEN": {
+      "totalAmount": 9,
+      "last_price": 128.43951416015625,
+      "entry_price": 128.43951416015625
+    },
+    "LH": {
+      "totalAmount": 21,
+      "last_price": 226.29014587402344,
+      "entry_price": 226.29014587402344
+    },
+    "LHX": {
+      "totalAmount": 0,
+      "last_price": 205.21170043945312
+    },
+    "LII": {
+      "totalAmount": 0,
+      "last_price": 601.8385009765625
+    },
+    "LIN": {
+      "totalAmount": 0,
+      "last_price": 411.4806823730469
+    },
+    "LKQ": {
+      "totalAmount": 0,
+      "last_price": 35.3895149230957
+    },
+    "LLY": {
+      "totalAmount": 1,
+      "last_price": 773.4436645507812,
+      "entry_price": 773.4436645507812
+    },
+    "LMT": {
+      "totalAmount": 6,
+      "last_price": 475.44146728515625,
+      "entry_price": 475.44146728515625
+    },
+    "LNT": {
+      "totalAmount": 0,
+      "last_price": 57.08395767211914
+    },
+    "LOW": {
+      "totalAmount": 29,
+      "last_price": 243.3206024169922,
+      "entry_price": 243.3206024169922
+    },
+    "LRCX": {
+      "totalAmount": 42,
+      "last_price": 72.04277038574219,
+      "entry_price": 72.04277038574219
+    },
+    "LULU": {
+      "totalAmount": 25,
+      "last_price": 372.30999755859375,
+      "entry_price": 372.30999755859375
+    },
+    "LUV": {
+      "totalAmount": 346,
+      "last_price": 32.983333587646484,
+      "entry_price": 32.983333587646484
+    },
+    "LVS": {
+      "totalAmount": 0,
+      "last_price": 49.050872802734375
+    },
+    "LW": {
+      "totalAmount": 2,
+      "last_price": 64.75487518310547,
+      "entry_price": 64.75487518310547
+    },
+    "LYB": {
+      "totalAmount": 0,
+      "last_price": 68.16024017333984
+    },
+    "LYV": {
+      "totalAmount": 24,
+      "last_price": 129.22999572753906,
+      "entry_price": 129.22999572753906
+    },
+    "MA": {
+      "totalAmount": 0,
+      "last_price": 520.1014404296875
+    },
+    "MAA": {
+      "totalAmount": 12,
+      "last_price": 148.00320434570312,
+      "entry_price": 148.00320434570312
+    },
+    "MAR": {
+      "totalAmount": 0,
+      "last_price": 272.43902587890625
+    },
+    "MAS": {
+      "totalAmount": 0,
+      "last_price": 70.65889739990234
+    },
+    "MCD": {
+      "totalAmount": 0,
+      "last_price": 289.1906433105469
+    },
+    "MCHP": {
+      "totalAmount": 0,
+      "last_price": 56.88
+    },
+    "MCK": {
+      "totalAmount": 6,
+      "last_price": 566.21,
+      "entry_price": 565.0240478515625
+    },
+    "MCO": {
+      "totalAmount": 0,
+      "last_price": 472.84
+    },
+    "MDLZ": {
+      "totalAmount": 27,
+      "last_price": 59.5,
+      "entry_price": 58.67732620239258
+    },
+    "MDT": {
+      "totalAmount": 0,
+      "last_price": 80.22
+    },
+    "MET": {
+      "totalAmount": 50,
+      "last_price": 80.05014038085938,
+      "entry_price": 80.05014038085938
+    },
+    "META": {
+      "totalAmount": 0,
+      "last_price": 598.2470703125
+    },
+    "MGM": {
+      "totalAmount": 0,
+      "last_price": 33.65999984741211
+    },
+    "MHK": {
+      "totalAmount": 0,
+      "last_price": 115.91999816894533
+    },
+    "MKC": {
+      "totalAmount": 86,
+      "last_price": 74.9817123413086,
+      "entry_price": 74.9817123413086
+    },
+    "MKTX": {
+      "totalAmount": 5,
+      "last_price": 222.74220275878903,
+      "entry_price": 222.74220275878903
+    },
+    "MLM": {
+      "totalAmount": 0,
+      "last_price": 508.98974609375
+    },
+    "MMC": {
+      "totalAmount": 0,
+      "last_price": 208.9500732421875
+    },
+    "MMM": {
+      "totalAmount": 0,
+      "last_price": 127.84362030029295
+    },
+    "MNST": {
+      "totalAmount": 47,
+      "last_price": 52.310001373291016,
+      "entry_price": 52.310001373291016
+    },
+    "MO": {
+      "totalAmount": 0,
+      "last_price": 50.70127868652344
+    },
+    "MOH": {
+      "totalAmount": 0,
+      "last_price": 287.239990234375
+    },
+    "MOS": {
+      "totalAmount": 92,
+      "last_price": 24.01337623596191,
+      "entry_price": 24.01337623596191
+    },
+    "MPC": {
+      "totalAmount": 0,
+      "last_price": 139.11341857910156
+    },
+    "MPWR": {
+      "totalAmount": 0,
+      "last_price": 591.3653564453125
+    },
+    "MRK": {
+      "totalAmount": 0,
+      "last_price": 97.34593963623048
+    },
+    "MRNA": {
+      "totalAmount": 10,
+      "last_price": 42.0,
+      "entry_price": 42.0
+    },
+    "MS": {
+      "totalAmount": 0,
+      "last_price": 122.12014770507812
+    },
+    "MSCI": {
+      "totalAmount": 0,
+      "last_price": 591.5017700195312
+    },
+    "MSFT": {
+      "totalAmount": 7,
+      "last_price": 416.2925109863281,
+      "entry_price": 416.2925109863281
+    },
+    "MSI": {
+      "totalAmount": 0,
+      "last_price": 456.8126831054687
+    },
+    "MTB": {
+      "totalAmount": 20,
+      "last_price": 186.00601196289065,
+      "entry_price": 186.00601196289065
+    },
+    "MTCH": {
+      "totalAmount": 0,
+      "last_price": 32.03593063354492
+    },
+    "MTD": {
+      "totalAmount": 0,
+      "last_price": 1220.780029296875
+    },
+    "MU": {
+      "totalAmount": 22,
+      "last_price": 87.13442993164062,
+      "entry_price": 87.13442993164062
+    },
+    "NCLH": {
+      "totalAmount": 0,
+      "last_price": 25.920000076293945
+    },
+    "NDAQ": {
+      "totalAmount": 0,
+      "last_price": 76.93273162841797
+    },
+    "NDSN": {
+      "totalAmount": 33,
+      "last_price": 203.4595947265625,
+      "entry_price": 203.4595947265625
+    },
+    "NEE": {
+      "totalAmount": 0,
+      "last_price": 69.91404724121094
+    },
+    "NEM": {
+      "totalAmount": 0,
+      "last_price": 37.96580505371094
+    },
+    "NFLX": {
+      "totalAmount": 2,
+      "last_price": 886.72998046875,
+      "entry_price": 886.72998046875
+    },
+    "NI": {
+      "totalAmount": 0,
+      "last_price": 35.59642791748047
+    },
+    "NKE": {
+      "totalAmount": 0,
+      "last_price": 72.81510162353516
+    },
+    "NOC": {
+      "totalAmount": 1,
+      "last_price": 463.7018432617187,
+      "entry_price": 463.7018432617187
+    },
+    "NOW": {
+      "totalAmount": 0,
+      "last_price": 1054.3399658203125
+    },
+    "NRG": {
+      "totalAmount": 83,
+      "last_price": 91.7387466430664,
+      "entry_price": 91.7387466430664
+    },
+    "NSC": {
+      "totalAmount": 0,
+      "last_price": 230.79396057128903
+    },
+    "NTAP": {
+      "totalAmount": 0,
+      "last_price": 114.11060333251952
+    },
+    "NTRS": {
+      "totalAmount": 0,
+      "last_price": 101.46631622314452
+    },
+    "NUE": {
+      "totalAmount": 79,
+      "last_price": 113.48678588867188,
+      "entry_price": 113.48678588867188
+    },
+    "NVDA": {
+      "totalAmount": 3,
+      "last_price": 138.2876739501953,
+      "entry_price": 138.2876739501953
+    },
+    "NVR": {
+      "totalAmount": 0,
+      "last_price": 7989.89013671875
+    },
+    "NWS": {
+      "totalAmount": 0,
+      "last_price": 30.271268844604492
+    },
+    "NWSA": {
+      "totalAmount": 194,
+      "last_price": 27.358068466186523,
+      "entry_price": 27.358068466186523
+    },
+    "NXPI": {
+      "totalAmount": 20,
+      "last_price": 204.2481231689453,
+      "entry_price": 204.2481231689453
+    },
+    "O": {
+      "totalAmount": 0,
+      "last_price": 50.88702774047851
+    },
+    "ODFL": {
+      "totalAmount": 37,
+      "last_price": 175.1475067138672,
+      "entry_price": 175.1475067138672
+    },
+    "OKE": {
+      "totalAmount": 0,
+      "last_price": 98.19100952148438
+    },
+    "OMC": {
+      "totalAmount": 32,
+      "last_price": 84.89363861083984,
+      "entry_price": 84.89363861083984
+    },
+    "ON": {
+      "totalAmount": 0,
+      "last_price": 61.709999084472656
+    },
+    "ORCL": {
+      "totalAmount": 0,
+      "last_price": 164.68016052246094
+    },
+    "ORLY": {
+      "totalAmount": 0,
+      "last_price": 79.1806640625
+    },
+    "OTIS": {
+      "totalAmount": 79,
+      "last_price": 91.03978729248048,
+      "entry_price": 91.03978729248048
+    },
+    "OXY": {
+      "totalAmount": 99,
+      "last_price": 49.28187942504883,
+      "entry_price": 49.28187942504883
+    },
+    "PANW": {
+      "totalAmount": 0,
+      "last_price": 180.7400054931641
+    },
+    "PARA": {
+      "totalAmount": 0,
+      "last_price": 10.490446090698242
+    },
+    "PAYC": {
+      "totalAmount": 0,
+      "last_price": 200.4312438964844
+    },
+    "PAYX": {
+      "totalAmount": 114,
+      "last_price": 135.58682250976562,
+      "entry_price": 135.58682250976562
+    },
+    "PCAR": {
+      "totalAmount": 5,
+      "last_price": 102.40802001953124,
+      "entry_price": 102.40802001953124
+    },
+    "PCG": {
+      "totalAmount": 0,
+      "last_price": 19.944869995117188
+    },
+    "PEG": {
+      "totalAmount": 10,
+      "last_price": 83.75896453857422,
+      "entry_price": 83.75896453857422
+    },
+    "PEP": {
+      "totalAmount": 15,
+      "last_price": 147.27755737304688,
+      "entry_price": 147.27755737304688
+    },
+    "PFE": {
+      "totalAmount": 186,
+      "last_price": 25.251476287841797,
+      "entry_price": 25.251476287841797
+    },
+    "PFG": {
+      "totalAmount": 37,
+      "last_price": 75.94139099121094,
+      "entry_price": 75.94139099121094
+    },
+    "PG": {
+      "totalAmount": 0,
+      "last_price": 162.83847045898438
+    },
+    "PGR": {
+      "totalAmount": 0,
+      "last_price": 235.9300079345703
+    },
+    "PH": {
+      "totalAmount": 3,
+      "last_price": 626.2741088867188,
+      "entry_price": 626.2741088867188
+    },
+    "PHM": {
+      "totalAmount": 47,
+      "last_price": 107.18132781982422,
+      "entry_price": 107.18132781982422
+    },
+    "PKG": {
+      "totalAmount": 0,
+      "last_price": 222.32684326171875
+    },
+    "PLD": {
+      "totalAmount": 111,
+      "last_price": 102.36275482177734,
+      "entry_price": 102.36275482177734
+    },
+    "PLTR": {
+      "totalAmount": 70,
+      "last_price": 75.19000244140625,
+      "entry_price": 75.19000244140625
+    },
+    "PM": {
+      "totalAmount": 90,
+      "last_price": 119.14338684082033,
+      "entry_price": 119.14338684082033
+    },
+    "PNC": {
+      "totalAmount": 0,
+      "last_price": 186.25271606445312
+    },
+    "PNR": {
+      "totalAmount": 44,
+      "last_price": 99.61530303955078,
+      "entry_price": 99.61530303955078
+    },
+    "PNW": {
+      "totalAmount": 77,
+      "last_price": 81.83419036865234,
+      "entry_price": 81.83419036865234
+    },
+    "PODD": {
+      "totalAmount": 0,
+      "last_price": 256.8500061035156
+    },
+    "POOL": {
+      "totalAmount": 20,
+      "last_price": 329.116943359375,
+      "entry_price": 329.116943359375
+    },
+    "PPG": {
+      "totalAmount": 8,
+      "last_price": 113.2841567993164,
+      "entry_price": 113.2841567993164
+    },
+    "PPL": {
+      "totalAmount": 76,
+      "last_price": 31.665224075317383,
+      "entry_price": 31.665224075317383
+    },
+    "PRU": {
+      "totalAmount": 39,
+      "last_price": 113.91714477539062,
+      "entry_price": 113.91714477539062
+    },
+    "PSA": {
+      "totalAmount": 0,
+      "last_price": 290.7129821777344
+    },
+    "PSX": {
+      "totalAmount": 0,
+      "last_price": 111.2090301513672
+    },
+    "PTC": {
+      "totalAmount": 0,
+      "last_price": 183.0099945068359
+    },
+    "PWR": {
+      "totalAmount": 12,
+      "last_price": 315.29736328125,
+      "entry_price": 315.29736328125
+    },
+    "PYPL": {
+      "totalAmount": 90,
+      "last_price": 86.18000030517578,
+      "entry_price": 86.18000030517578
+    },
+    "QCOM": {
+      "totalAmount": 0,
+      "last_price": 151.9035186767578
+    },
+    "RCL": {
+      "totalAmount": 0,
+      "last_price": 227.5814514160156
+    },
+    "REG": {
+      "totalAmount": 0,
+      "last_price": 70.82551574707031
+    },
+    "REGN": {
+      "totalAmount": 0,
+      "last_price": 712.1370849609375
+    },
+    "RF": {
+      "totalAmount": 0,
+      "last_price": 22.746383666992188
+    },
+    "RJF": {
+      "totalAmount": 1,
+      "last_price": 153.9385986328125,
+      "entry_price": 153.9385986328125
+    },
+    "RL": {
+      "totalAmount": 0,
+      "last_price": 229.94134521484375
+    },
+    "RMD": {
+      "totalAmount": 2,
+      "last_price": 227.0009765625,
+      "entry_price": 227.0009765625
+    },
+    "ROK": {
+      "totalAmount": 0,
+      "last_price": 277.3890686035156
+    },
+    "ROL": {
+      "totalAmount": 0,
+      "last_price": 45.630008697509766
+    },
+    "ROP": {
+      "totalAmount": 0,
+      "last_price": 511.4883728027344
+    },
+    "ROST": {
+      "totalAmount": 39,
+      "last_price": 151.67437744140625,
+      "entry_price": 151.67437744140625
+    },
+    "RSG": {
+      "totalAmount": 0,
+      "last_price": 199.14064025878903
+    },
+    "RTX": {
+      "totalAmount": 58,
+      "last_price": 114.33683776855467,
+      "entry_price": 114.33683776855467
+    },
+    "RVTY": {
+      "totalAmount": 60,
+      "last_price": 111.7689208984375,
+      "entry_price": 111.7689208984375
+    },
+    "SBAC": {
+      "totalAmount": 40,
+      "last_price": 197.43362426757812,
+      "entry_price": 197.43362426757812
+    },
+    "SBUX": {
+      "totalAmount": 54,
+      "last_price": 90.43489837646484,
+      "entry_price": 90.43489837646484
+    },
+    "SCHW": {
+      "totalAmount": 0,
+      "last_price": 73.15372467041016
+    },
+    "SHW": {
+      "totalAmount": 0,
+      "last_price": 330.99005126953125
+    },
+    "SJM": {
+      "totalAmount": 17,
+      "last_price": 108.09197998046876,
+      "entry_price": 108.09197998046876
+    },
+    "SLB": {
+      "totalAmount": 0,
+      "last_price": 37.81587600708008
+    },
+    "SMCI": {
+      "totalAmount": 40,
+      "last_price": 30.049999237060547,
+      "entry_price": 30.049999237060547
+    },
+    "SNA": {
+      "totalAmount": 0,
+      "last_price": 328.6376037597656
+    },
+    "SNPS": {
+      "totalAmount": 9,
+      "last_price": 482.75,
+      "entry_price": 482.75
+    },
+    "SO": {
+      "totalAmount": 0,
+      "last_price": 80.06584930419922
+    },
+    "SOLV": {
+      "totalAmount": 0,
+      "last_price": 65.93000030517578
+    },
+    "SPG": {
+      "totalAmount": 0,
+      "last_price": 169.17970275878906
+    },
+    "SPGI": {
+      "totalAmount": 0,
+      "last_price": 492.8301696777344
+    },
+    "SRE": {
+      "totalAmount": 1,
+      "last_price": 85.59713745117188,
+      "entry_price": 85.59713745117188
+    },
+    "STE": {
+      "totalAmount": 13,
+      "last_price": 201.4644775390625,
+      "entry_price": 201.4644775390625
+    },
+    "STLD": {
+      "totalAmount": 0,
+      "last_price": 111.05374908447266
+    },
+    "STT": {
+      "totalAmount": 0,
+      "last_price": 96.42443084716795
+    },
+    "STX": {
+      "totalAmount": 18,
+      "last_price": 85.23566436767578,
+      "entry_price": 85.23566436767578
+    },
+    "STZ": {
+      "totalAmount": 35,
+      "last_price": 218.7637481689453,
+      "entry_price": 218.7637481689453
+    },
+    "SW": {
+      "totalAmount": 52,
+      "last_price": 52.166378021240234,
+      "entry_price": 52.166378021240234
+    },
+    "SWK": {
+      "totalAmount": 34,
+      "last_price": 78.08668518066406,
+      "entry_price": 78.08668518066406
+    },
+    "SWKS": {
+      "totalAmount": 0,
+      "last_price": 85.84435272216797
+    },
+    "SYF": {
+      "totalAmount": 93,
+      "last_price": 64.37344360351562,
+      "entry_price": 64.37344360351562
+    },
+    "SYK": {
+      "totalAmount": 8,
+      "last_price": 357.12939453125,
+      "entry_price": 357.12939453125
+    },
+    "SYY": {
+      "totalAmount": 0,
+      "last_price": 74.17219543457031
+    },
+    "T": {
+      "totalAmount": 0,
+      "last_price": 22.086397171020508
+    },
+    "TAP": {
+      "totalAmount": 0,
+      "last_price": 56.25233459472656
+    },
+    "TDG": {
+      "totalAmount": 2,
+      "last_price": 1254.1099853515625,
+      "entry_price": 1254.1099853515625
+    },
+    "TDY": {
+      "totalAmount": 2,
+      "last_price": 457.989990234375,
+      "entry_price": 457.989990234375
+    },
+    "TECH": {
+      "totalAmount": 0,
+      "last_price": 71.17176055908203
+    },
+    "TEL": {
+      "totalAmount": 12,
+      "last_price": 138.9484405517578,
+      "entry_price": 138.9484405517578
+    },
+    "TER": {
+      "totalAmount": 56,
+      "last_price": 126.23332214355467,
+      "entry_price": 126.23332214355467
+    },
+    "TFC": {
+      "totalAmount": 201,
+      "last_price": 41.76874542236328,
+      "entry_price": 41.76874542236328
+    },
+    "TFX": {
+      "totalAmount": 56,
+      "last_price": 177.63082885742188,
+      "entry_price": 177.63082885742188
+    },
+    "TGT": {
+      "totalAmount": 37,
+      "last_price": 133.0495147705078,
+      "entry_price": 133.0495147705078
+    },
+    "TJX": {
+      "totalAmount": 0,
+      "last_price": 120.01214599609376
+    },
+    "TMO": {
+      "totalAmount": 2,
+      "last_price": 521.587890625,
+      "entry_price": 521.587890625
+    },
+    "TMUS": {
+      "totalAmount": 21,
+      "last_price": 217.2284698486328,
+      "entry_price": 217.2284698486328
+    },
+    "TPL": {
+      "totalAmount": 0,
+      "last_price": 1177.064697265625
+    },
+    "TPR": {
+      "totalAmount": 46,
+      "last_price": 65.05868530273438,
+      "entry_price": 65.05868530273438
+    },
+    "TRGP": {
+      "totalAmount": 20,
+      "last_price": 180.2832946777344,
+      "entry_price": 180.2832946777344
+    },
+    "TRMB": {
+      "totalAmount": 0,
+      "last_price": 69.70999908447266
+    },
+    "TROW": {
+      "totalAmount": 0,
+      "last_price": 110.36275482177734
+    },
+    "TRV": {
+      "totalAmount": 0,
+      "last_price": 238.92298889160156
+    },
+    "TSCO": {
+      "totalAmount": 168,
+      "last_price": 51.73664855957031,
+      "entry_price": 51.73664855957031
+    },
+    "TSLA": {
+      "totalAmount": 1,
+      "last_price": 379.2799987792969,
+      "entry_price": 379.2799987792969
+    },
+    "TSN": {
+      "totalAmount": 0,
+      "last_price": 56.650184631347656
+    },
+    "TT": {
+      "totalAmount": 0,
+      "last_price": 371.9982604980469
+    },
+    "TTWO": {
+      "totalAmount": 25,
+      "last_price": 183.07000732421875,
+      "entry_price": 183.07000732421875
+    },
+    "TXN": {
+      "totalAmount": 0,
+      "last_price": 182.68736267089844
+    },
+    "TXT": {
+      "totalAmount": 0,
+      "last_price": 75.74946594238281
+    },
+    "TYL": {
+      "totalAmount": 0,
+      "last_price": 574.6699829101562
+    },
+    "UAL": {
+      "totalAmount": 0,
+      "last_price": 95.43000030517578
+    },
+    "UBER": {
+      "totalAmount": 19,
+      "last_price": 63.16999816894531,
+      "entry_price": 63.16999816894531
+    },
+    "UDR": {
+      "totalAmount": 82,
+      "last_price": 41.210968017578125,
+      "entry_price": 41.210968017578125
+    },
+    "UHS": {
+      "totalAmount": 1,
+      "last_price": 179.27638244628906,
+      "entry_price": 179.27638244628906
+    },
+    "ULTA": {
+      "totalAmount": 0,
+      "last_price": 429.1600036621094
+    },
+    "UNH": {
+      "totalAmount": 3,
+      "last_price": 498.822021484375,
+      "entry_price": 498.822021484375
+    },
+    "UNP": {
+      "totalAmount": 1,
+      "last_price": 225.08920288085935,
+      "entry_price": 225.08920288085935
+    },
+    "UPS": {
+      "totalAmount": 54,
+      "last_price": 117.91841888427734,
+      "entry_price": 117.91841888427734
+    },
+    "URI": {
+      "totalAmount": 0,
+      "last_price": 685.1437377929688
+    },
+    "USB": {
+      "totalAmount": 6,
+      "last_price": 46.77698516845703,
+      "entry_price": 46.77698516845703
+    },
+    "V": {
+      "totalAmount": 0,
+      "last_price": 312.8010559082031
+    },
+    "VICI": {
+      "totalAmount": 0,
+      "last_price": 28.21913719177246
+    },
+    "VLO": {
+      "totalAmount": 7,
+      "last_price": 120.14266967773438,
+      "entry_price": 120.14266967773438
+    },
+    "VLTO": {
+      "totalAmount": 11,
+      "last_price": 100.36542510986328,
+      "entry_price": 100.36542510986328
+    },
+    "VMC": {
+      "totalAmount": 6,
+      "last_price": 254.12130737304688,
+      "entry_price": 254.12130737304688
+    },
+    "VRSK": {
+      "totalAmount": 0,
+      "last_price": 272.5737609863281
+    },
+    "VRSN": {
+      "totalAmount": 60,
+      "last_price": 203.95379638671875,
+      "entry_price": 203.95379638671875
+    },
+    "VRTX": {
+      "totalAmount": 0,
+      "last_price": 405.760009765625
+    },
+    "VST": {
+      "totalAmount": 12,
+      "last_price": 149.2127227783203,
+      "entry_price": 149.2127227783203
+    },
+    "VTR": {
+      "totalAmount": 108,
+      "last_price": 57.11603927612305,
+      "entry_price": 57.11603927612305
+    },
+    "VTRS": {
+      "totalAmount": 0,
+      "last_price": 11.956650733947754
+    },
+    "VZ": {
+      "totalAmount": 0,
+      "last_price": 38.26658630371094
+    },
+    "WAB": {
+      "totalAmount": 22,
+      "last_price": 188.24497985839844,
+      "entry_price": 188.24497985839844
+    },
+    "WAT": {
+      "totalAmount": 4,
+      "last_price": 368.260009765625,
+      "entry_price": 368.260009765625
+    },
+    "WBA": {
+      "totalAmount": 184,
+      "last_price": 9.1899995803833,
+      "entry_price": 9.1899995803833
+    },
+    "WBD": {
+      "totalAmount": 0,
+      "last_price": 10.65999984741211
+    },
+    "WDAY": {
+      "totalAmount": 25,
+      "last_price": 251.83999633789065,
+      "entry_price": 251.83999633789065
+    },
+    "WDC": {
+      "totalAmount": 0,
+      "last_price": 46.677955627441406
+    },
+    "WEC": {
+      "totalAmount": 0,
+      "last_price": 91.62738800048828
+    },
+    "WELL": {
+      "totalAmount": 70,
+      "last_price": 123.0483627319336,
+      "entry_price": 123.0483627319336
+    },
+    "WFC": {
+      "totalAmount": 33,
+      "last_price": 69.05838775634766,
+      "entry_price": 69.05838775634766
+    },
+    "WM": {
+      "totalAmount": 12,
+      "last_price": 199.10801696777344,
+      "entry_price": 199.10801696777344
+    },
+    "WMB": {
+      "totalAmount": 0,
+      "last_price": 54.9217643737793
+    },
+    "WMT": {
+      "totalAmount": 0,
+      "last_price": 89.32839965820312
+    },
+    "WRB": {
+      "totalAmount": 62,
+      "last_price": 57.472938537597656,
+      "entry_price": 57.472938537597656
+    },
+    "WST": {
+      "totalAmount": 4,
+      "last_price": 327.5862731933594,
+      "entry_price": 327.5862731933594
+    },
+    "WTW": {
+      "totalAmount": 17,
+      "last_price": 307.4942321777344,
+      "entry_price": 307.4942321777344
+    },
+    "WY": {
+      "totalAmount": 213,
+      "last_price": 27.34821891784668,
+      "entry_price": 27.34821891784668
+    },
+    "WYNN": {
+      "totalAmount": 0,
+      "last_price": 83.16504669189453
+    },
+    "XEL": {
+      "totalAmount": 75,
+      "last_price": 65.21749877929688,
+      "entry_price": 65.21749877929688
+    },
+    "XOM": {
+      "totalAmount": 0,
+      "last_price": 104.41637420654295
+    },
+    "XYL": {
+      "totalAmount": 54,
+      "last_price": 114.90484619140624,
+      "entry_price": 114.90484619140624
+    },
+    "YUM": {
+      "totalAmount": 0,
+      "last_price": 132.28294372558594
+    },
+    "ZBH": {
+      "totalAmount": 0,
+      "last_price": 103.9670639038086
+    },
+    "ZBRA": {
+      "totalAmount": 0,
+      "last_price": 383.760009765625
+    },
+    "ZTS": {
+      "totalAmount": 0,
+      "last_price": 161.03619384765625
+    }
+  },
+  "liquid": 23503.06337772368,
+  "net_liquidation": 999604.3861160278,
+  "portfolio_value": 999604.3861160278,
+  "cash": 23503.06337772368,
+  "buying_power": 1199604.3861160278
+}

@@ -1,0 +1,32 @@
+{
+  "liquid": 1000000,
+  "EXAMPLE": {
+    "totalAmount": 15000.0,
+    "trades": [
+      {
+        "ticker": "EXAMPLE",
+        "type": "BUY",
+        "quantity": 10,
+        "pricePerStockAtPurchase": 150.0,
+        "totalWorthAtPurchase": 1500.0,
+        "timestamp": "1690876800"
+      },
+      {
+        "ticker": "EXAMPLE",
+        "type": "BUY",
+        "quantity": 5,
+        "pricePerStockAtPurchase": 175.0,
+        "totalWorthAtPurchase": 875.0,
+        "timestamp": "1693555200"
+      },
+      {
+        "ticker": "EXAMPLE",
+        "type": "BUY",
+        "quantity": 8,
+        "pricePerStockAtPurchase": 160.0,
+        "totalWorthAtPurchase": 1280.0,
+        "timestamp": "1696233600"
+      }
+    ]
+  }
+}

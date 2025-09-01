@@ -1,0 +1,9 @@
+TICKER: WFC
+DATE: 2025-01-01
+DECISION: HOLD
+RATIONALE:
+Summary: Direction set to HOLD under long-only constraints.
+Data sources: Polygon close (primary), local CSV, yfinance fallback.
+Sizing: MVO-BLM long-only; HOLD treated as invest-at-minimum; SELL exits to zero.
+FINAL TRANSACTION PROPOSAL: **HOLD**
+

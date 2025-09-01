@@ -1,0 +1,1532 @@
+# Multithreaded Batch Portfolio Report (2025-01-03)
+
+- Runtime: 00:06:38 (398.58s)
+
+## Decisions
+
+- A: HOLD
+- AAPL: HOLD
+- ABBV: HOLD
+- ABNB: HOLD
+- ABT: HOLD
+- ACGL: HOLD
+- ACN: HOLD
+- ADBE: HOLD
+- ADI: HOLD
+- ADM: HOLD
+- ADP: HOLD
+- ADSK: HOLD
+- AEE: HOLD
+- AEP: HOLD
+- AES: HOLD
+- AFL: HOLD
+- AIG: HOLD
+- AIZ: HOLD
+- AJG: HOLD
+- AKAM: HOLD
+- ALB: HOLD
+- ALGN: HOLD
+- ALL: HOLD
+- ALLE: HOLD
+- AMAT: HOLD
+- AMCR: HOLD
+- AMD: HOLD
+- AME: HOLD
+- AMGN: HOLD
+- AMP: HOLD
+- AMT: HOLD
+- AMZN: HOLD
+- ANET: HOLD
+- ANSS: HOLD
+- AON: HOLD
+- AOS: HOLD
+- APA: HOLD
+- APD: HOLD
+- APH: HOLD
+- APO: HOLD
+- APTV: HOLD
+- ARE: HOLD
+- ATO: HOLD
+- AVB: HOLD
+- AVGO: HOLD
+- AVY: HOLD
+- AWK: HOLD
+- AXON: HOLD
+- AXP: HOLD
+- AZO: HOLD
+- BA: HOLD
+- BAC: HOLD
+- BALL: HOLD
+- BAX: HOLD
+- BBY: HOLD
+- BDX: HOLD
+- BEN: HOLD
+- BF.B: HOLD
+- BG: HOLD
+- BIIB: HOLD
+- BK: HOLD
+- BKNG: HOLD
+- BKR: HOLD
+- BLDR: HOLD
+- BLK: HOLD
+- BMY: HOLD
+- BR: HOLD
+- BRK.B: HOLD
+- BRO: HOLD
+- BSX: HOLD
+- BWA: HOLD
+- BX: HOLD
+- BXP: HOLD
+- C: HOLD
+- CAG: HOLD
+- CAH: HOLD
+- CARR: HOLD
+- CAT: HOLD
+- CB: HOLD
+- CBOE: HOLD
+- CBRE: HOLD
+- CCI: HOLD
+- CCL: HOLD
+- CDNS: HOLD
+- CDW: HOLD
+- CE: HOLD
+- CEG: HOLD
+- CF: HOLD
+- CFG: HOLD
+- CHD: HOLD
+- CHRW: HOLD
+- CHTR: HOLD
+- CI: HOLD
+- CINF: HOLD
+- CL: HOLD
+- CLX: HOLD
+- CMCSA: HOLD
+- CME: HOLD
+- CMG: HOLD
+- CMI: HOLD
+- CMS: HOLD
+- CNC: HOLD
+- CNP: HOLD
+- COF: HOLD
+- COO: HOLD
+- COP: HOLD
+- COR: HOLD
+- COST: HOLD
+- CPAY: HOLD
+- CPB: HOLD
+- CPRT: HOLD
+- CPT: HOLD
+- CRL: HOLD
+- CRM: HOLD
+- CRWD: HOLD
+- CSCO: HOLD
+- CSGP: HOLD
+- CSX: HOLD
+- CTAS: HOLD
+- CTRA: HOLD
+- CTSH: HOLD
+- CTVA: HOLD
+- CVS: HOLD
+- CVX: HOLD
+- CZR: HOLD
+- D: HOLD
+- DAL: HOLD
+- DAY: HOLD
+- DD: HOLD
+- DE: HOLD
+- DECK: HOLD
+- DELL: HOLD
+- DFS: HOLD
+- DG: HOLD
+- DGX: HOLD
+- DHI: HOLD
+- DHR: HOLD
+- DIS: HOLD
+- DLR: HOLD
+- DLTR: HOLD
+- DOC: HOLD
+- DOV: HOLD
+- DOW: HOLD
+- DPZ: HOLD
+- DRI: HOLD
+- DTE: HOLD
+- DUK: HOLD
+- DVA: HOLD
+- DVN: HOLD
+- DXCM: HOLD
+- EA: HOLD
+- EBAY: HOLD
+- ECL: HOLD
+- ED: HOLD
+- EFX: HOLD
+- EG: HOLD
+- EIX: HOLD
+- EL: HOLD
+- ELV: HOLD
+- EMN: HOLD
+- EMR: HOLD
+- ENPH: HOLD
+- EOG: HOLD
+- EPAM: HOLD
+- EQIX: HOLD
+- EQR: HOLD
+- EQT: HOLD
+- ERIE: HOLD
+- ES: HOLD
+- ESS: HOLD
+- ETN: HOLD
+- ETR: HOLD
+- EVRG: HOLD
+- EW: HOLD
+- EXC: HOLD
+- EXPD: HOLD
+- EXPE: HOLD
+- EXR: HOLD
+- F: HOLD
+- FANG: HOLD
+- FAST: HOLD
+- FCX: HOLD
+- FDS: HOLD
+- FDX: HOLD
+- FE: HOLD
+- FFIV: HOLD
+- FI: HOLD
+- FICO: HOLD
+- FIS: HOLD
+- FITB: HOLD
+- FMC: HOLD
+- FOX: HOLD
+- FOXA: HOLD
+- FRT: HOLD
+- FSLR: HOLD
+- FTNT: HOLD
+- FTV: HOLD
+- GD: HOLD
+- GDDY: HOLD
+- GE: HOLD
+- GEHC: HOLD
+- GEN: HOLD
+- GEV: HOLD
+- GILD: HOLD
+- GIS: HOLD
+- GL: HOLD
+- GLW: HOLD
+- GM: HOLD
+- GNRC: HOLD
+- GOOG: HOLD
+- GOOGL: HOLD
+- GPC: HOLD
+- GPN: HOLD
+- GRMN: HOLD
+- GS: HOLD
+- GWW: HOLD
+- HAL: HOLD
+- HAS: HOLD
+- HBAN: HOLD
+- HCA: HOLD
+- HD: HOLD
+- HES: HOLD
+- HIG: HOLD
+- HII: HOLD
+- HLT: HOLD
+- HOLX: HOLD
+- HON: HOLD
+- HPE: HOLD
+- HPQ: HOLD
+- HRL: HOLD
+- HSIC: HOLD
+- HST: HOLD
+- HSY: HOLD
+- HUBB: HOLD
+- HUM: HOLD
+- HWM: HOLD
+- IBM: HOLD
+- ICE: HOLD
+- IDXX: HOLD
+- IEX: HOLD
+- IFF: HOLD
+- INCY: HOLD
+- INTC: HOLD
+- INTU: HOLD
+- INVH: HOLD
+- IP: HOLD
+- IPG: HOLD
+- IQV: HOLD
+- IR: HOLD
+- IRM: HOLD
+- ISRG: HOLD
+- IT: HOLD
+- ITW: HOLD
+- IVZ: HOLD
+- J: HOLD
+- JBHT: HOLD
+- JBL: HOLD
+- JCI: HOLD
+- JKHY: HOLD
+- JNJ: HOLD
+- JNPR: HOLD
+- JPM: HOLD
+- K: HOLD
+- KDP: HOLD
+- KEY: HOLD
+- KEYS: HOLD
+- KHC: HOLD
+- KIM: HOLD
+- KKR: HOLD
+- KLAC: HOLD
+- KMB: HOLD
+- KMI: HOLD
+- KMX: HOLD
+- KO: HOLD
+- KR: HOLD
+- KVUE: HOLD
+- L: HOLD
+- LDOS: HOLD
+- LEN: HOLD
+- LH: HOLD
+- LHX: HOLD
+- LII: HOLD
+- LIN: HOLD
+- LKQ: HOLD
+- LLY: HOLD
+- LMT: HOLD
+- LNT: HOLD
+- LOW: HOLD
+- LRCX: HOLD
+- LULU: HOLD
+- LUV: HOLD
+- LVS: HOLD
+- LW: HOLD
+- LYB: HOLD
+- LYV: HOLD
+- MA: HOLD
+- MAA: HOLD
+- MAR: HOLD
+- MAS: HOLD
+- MCD: HOLD
+- MCHP: HOLD
+- MCK: HOLD
+- MCO: HOLD
+- MDLZ: HOLD
+- MDT: HOLD
+- MET: HOLD
+- META: HOLD
+- MGM: HOLD
+- MHK: HOLD
+- MKC: HOLD
+- MKTX: HOLD
+- MLM: HOLD
+- MMC: HOLD
+- MMM: HOLD
+- MNST: HOLD
+- MO: HOLD
+- MOH: HOLD
+- MOS: HOLD
+- MPC: HOLD
+- MPWR: HOLD
+- MRK: HOLD
+- MRNA: HOLD
+- MS: HOLD
+- MSCI: HOLD
+- MSFT: HOLD
+- MSI: HOLD
+- MTB: HOLD
+- MTCH: HOLD
+- MTD: HOLD
+- MU: HOLD
+- NCLH: HOLD
+- NDAQ: HOLD
+- NDSN: HOLD
+- NEE: HOLD
+- NEM: HOLD
+- NFLX: HOLD
+- NI: HOLD
+- NKE: HOLD
+- NOC: HOLD
+- NOW: HOLD
+- NRG: HOLD
+- NSC: HOLD
+- NTAP: HOLD
+- NTRS: HOLD
+- NUE: HOLD
+- NVDA: HOLD
+- NVR: HOLD
+- NWS: HOLD
+- NWSA: HOLD
+- NXPI: HOLD
+- O: HOLD
+- ODFL: HOLD
+- OKE: HOLD
+- OMC: HOLD
+- ON: HOLD
+- ORCL: HOLD
+- ORLY: HOLD
+- OTIS: HOLD
+- OXY: HOLD
+- PANW: HOLD
+- PARA: HOLD
+- PAYC: HOLD
+- PAYX: HOLD
+- PCAR: HOLD
+- PCG: HOLD
+- PEG: HOLD
+- PEP: HOLD
+- PFE: HOLD
+- PFG: HOLD
+- PG: HOLD
+- PGR: HOLD
+- PH: HOLD
+- PHM: HOLD
+- PKG: HOLD
+- PLD: HOLD
+- PLTR: HOLD
+- PM: HOLD
+- PNC: HOLD
+- PNR: HOLD
+- PNW: HOLD
+- PODD: HOLD
+- POOL: HOLD
+- PPG: HOLD
+- PPL: HOLD
+- PRU: HOLD
+- PSA: HOLD
+- PSX: HOLD
+- PTC: HOLD
+- PWR: HOLD
+- PYPL: HOLD
+- QCOM: HOLD
+- RCL: HOLD
+- REG: HOLD
+- REGN: HOLD
+- RF: HOLD
+- RJF: HOLD
+- RL: HOLD
+- RMD: HOLD
+- ROK: HOLD
+- ROL: HOLD
+- ROP: HOLD
+- ROST: HOLD
+- RSG: HOLD
+- RTX: HOLD
+- RVTY: HOLD
+- SBAC: HOLD
+- SBUX: HOLD
+- SCHW: HOLD
+- SHW: HOLD
+- SJM: HOLD
+- SLB: HOLD
+- SMCI: HOLD
+- SNA: HOLD
+- SNPS: HOLD
+- SO: HOLD
+- SOLV: HOLD
+- SPG: HOLD
+- SPGI: HOLD
+- SRE: HOLD
+- STE: HOLD
+- STLD: HOLD
+- STT: HOLD
+- STX: HOLD
+- STZ: HOLD
+- SW: HOLD
+- SWK: HOLD
+- SWKS: HOLD
+- SYF: HOLD
+- SYK: HOLD
+- SYY: HOLD
+- T: HOLD
+- TAP: HOLD
+- TDG: HOLD
+- TDY: HOLD
+- TECH: HOLD
+- TEL: HOLD
+- TER: HOLD
+- TFC: HOLD
+- TFX: HOLD
+- TGT: HOLD
+- TJX: HOLD
+- TMO: HOLD
+- TMUS: HOLD
+- TPL: HOLD
+- TPR: HOLD
+- TRGP: HOLD
+- TRMB: HOLD
+- TROW: HOLD
+- TRV: HOLD
+- TSCO: HOLD
+- TSLA: HOLD
+- TSN: HOLD
+- TT: HOLD
+- TTWO: HOLD
+- TXN: HOLD
+- TXT: HOLD
+- TYL: HOLD
+- UAL: HOLD
+- UBER: HOLD
+- UDR: HOLD
+- UHS: HOLD
+- ULTA: HOLD
+- UNH: HOLD
+- UNP: HOLD
+- UPS: HOLD
+- URI: HOLD
+- USB: HOLD
+- V: HOLD
+- VICI: HOLD
+- VLO: HOLD
+- VLTO: HOLD
+- VMC: HOLD
+- VRSK: HOLD
+- VRSN: HOLD
+- VRTX: HOLD
+- VST: HOLD
+- VTR: HOLD
+- VTRS: HOLD
+- VZ: HOLD
+- WAB: HOLD
+- WAT: HOLD
+- WBA: HOLD
+- WBD: HOLD
+- WDAY: HOLD
+- WDC: HOLD
+- WEC: HOLD
+- WELL: HOLD
+- WFC: HOLD
+- WM: HOLD
+- WMB: HOLD
+- WMT: HOLD
+- WRB: HOLD
+- WST: HOLD
+- WTW: HOLD
+- WY: HOLD
+- WYNN: HOLD
+- XEL: HOLD
+- XOM: HOLD
+- XYL: HOLD
+- YUM: HOLD
+- ZBH: HOLD
+- ZBRA: HOLD
+- ZTS: HOLD
+
+## LLM Views (bounded)
+
+- A: 0.0
+- AAPL: 0.0
+- ABBV: 0.0
+- ABNB: 0.0
+- ABT: 0.0
+- ACGL: 0.0
+- ACN: 0.0
+- ADBE: 0.0
+- ADI: 0.0
+- ADM: 0.0
+- ADP: 0.0
+- ADSK: 0.0
+- AEE: 0.0
+- AEP: 0.0
+- AES: 0.0
+- AFL: 0.0
+- AIG: 0.0
+- AIZ: 0.0
+- AJG: 0.0
+- AKAM: 0.0
+- ALB: 0.0
+- ALGN: 0.0
+- ALL: 0.0
+- ALLE: 0.0
+- AMAT: 0.0
+- AMCR: 0.0
+- AMD: 0.0
+- AME: 0.0
+- AMGN: 0.0
+- AMP: 0.0
+- AMT: 0.0
+- AMZN: 0.0
+- ANET: 0.0
+- ANSS: 0.0
+- AON: 0.0
+- AOS: 0.0
+- APA: 0.0
+- APD: 0.0
+- APH: 0.0
+- APO: 0.0
+- APTV: 0.0
+- ARE: 0.0
+- ATO: 0.0
+- AVB: 0.0
+- AVGO: 0.0
+- AVY: 0.0
+- AWK: 0.0
+- AXON: 0.0
+- AXP: 0.0
+- AZO: 0.0
+- BA: 0.0
+- BAC: 0.0
+- BALL: 0.0
+- BAX: 0.0
+- BBY: 0.0
+- BDX: 0.0
+- BEN: 0.0
+- BF.B: 0.0
+- BG: 0.0
+- BIIB: 0.0
+- BK: 0.0
+- BKNG: 0.0
+- BKR: 0.0
+- BLDR: 0.0
+- BLK: 0.0
+- BMY: 0.0
+- BR: 0.0
+- BRK.B: 0.0
+- BRO: 0.0
+- BSX: 0.0
+- BWA: 0.0
+- BX: 0.0
+- BXP: 0.0
+- C: 0.0
+- CAG: 0.0
+- CAH: 0.0
+- CARR: 0.0
+- CAT: 0.0
+- CB: 0.0
+- CBOE: 0.0
+- CBRE: 0.0
+- CCI: 0.0
+- CCL: 0.0
+- CDNS: 0.0
+- CDW: 0.0
+- CE: 0.0
+- CEG: 0.0
+- CF: 0.0
+- CFG: 0.0
+- CHD: 0.0
+- CHRW: 0.0
+- CHTR: 0.0
+- CI: 0.0
+- CINF: 0.0
+- CL: 0.0
+- CLX: 0.0
+- CMCSA: 0.0
+- CME: 0.0
+- CMG: 0.0
+- CMI: 0.0
+- CMS: 0.0
+- CNC: 0.0
+- CNP: 0.0
+- COF: 0.0
+- COO: 0.0
+- COP: 0.0
+- COR: 0.0
+- COST: 0.0
+- CPAY: 0.0
+- CPB: 0.0
+- CPRT: 0.0
+- CPT: 0.0
+- CRL: 0.0
+- CRM: 0.0
+- CRWD: 0.0
+- CSCO: 0.0
+- CSGP: 0.0
+- CSX: 0.0
+- CTAS: 0.0
+- CTRA: 0.0
+- CTSH: 0.0
+- CTVA: 0.0
+- CVS: 0.0
+- CVX: 0.0
+- CZR: 0.0
+- D: 0.0
+- DAL: 0.0
+- DAY: 0.0
+- DD: 0.0
+- DE: 0.0
+- DECK: 0.0
+- DELL: 0.0
+- DFS: 0.0
+- DG: 0.0
+- DGX: 0.0
+- DHI: 0.0
+- DHR: 0.0
+- DIS: 0.0
+- DLR: 0.0
+- DLTR: 0.0
+- DOC: 0.0
+- DOV: 0.0
+- DOW: 0.0
+- DPZ: 0.0
+- DRI: 0.0
+- DTE: 0.0
+- DUK: 0.0
+- DVA: 0.0
+- DVN: 0.0
+- DXCM: 0.0
+- EA: 0.0
+- EBAY: 0.0
+- ECL: 0.0
+- ED: 0.0
+- EFX: 0.0
+- EG: 0.0
+- EIX: 0.0
+- EL: 0.0
+- ELV: 0.0
+- EMN: 0.0
+- EMR: 0.0
+- ENPH: 0.0
+- EOG: 0.0
+- EPAM: 0.0
+- EQIX: 0.0
+- EQR: 0.0
+- EQT: 0.0
+- ERIE: 0.0
+- ES: 0.0
+- ESS: 0.0
+- ETN: 0.0
+- ETR: 0.0
+- EVRG: 0.0
+- EW: 0.0
+- EXC: 0.0
+- EXPD: 0.0
+- EXPE: 0.0
+- EXR: 0.0
+- F: 0.0
+- FANG: 0.0
+- FAST: 0.0
+- FCX: 0.0
+- FDS: 0.0
+- FDX: 0.0
+- FE: 0.0
+- FFIV: 0.0
+- FI: 0.0
+- FICO: 0.0
+- FIS: 0.0
+- FITB: 0.0
+- FMC: 0.0
+- FOX: 0.0
+- FOXA: 0.0
+- FRT: 0.0
+- FSLR: 0.0
+- FTNT: 0.0
+- FTV: 0.0
+- GD: 0.0
+- GDDY: 0.0
+- GE: 0.0
+- GEHC: 0.0
+- GEN: 0.0
+- GEV: 0.0
+- GILD: 0.0
+- GIS: 0.0
+- GL: 0.0
+- GLW: 0.0
+- GM: 0.0
+- GNRC: 0.0
+- GOOG: 0.0
+- GOOGL: 0.0
+- GPC: 0.0
+- GPN: 0.0
+- GRMN: 0.0
+- GS: 0.0
+- GWW: 0.0
+- HAL: 0.0
+- HAS: 0.0
+- HBAN: 0.0
+- HCA: 0.0
+- HD: 0.0
+- HES: 0.0
+- HIG: 0.0
+- HII: 0.0
+- HLT: 0.0
+- HOLX: 0.0
+- HON: 0.0
+- HPE: 0.0
+- HPQ: 0.0
+- HRL: 0.0
+- HSIC: 0.0
+- HST: 0.0
+- HSY: 0.0
+- HUBB: 0.0
+- HUM: 0.0
+- HWM: 0.0
+- IBM: 0.0
+- ICE: 0.0
+- IDXX: 0.0
+- IEX: 0.0
+- IFF: 0.0
+- INCY: 0.0
+- INTC: 0.0
+- INTU: 0.0
+- INVH: 0.0
+- IP: 0.0
+- IPG: 0.0
+- IQV: 0.0
+- IR: 0.0
+- IRM: 0.0
+- ISRG: 0.0
+- IT: 0.0
+- ITW: 0.0
+- IVZ: 0.0
+- J: 0.0
+- JBHT: 0.0
+- JBL: 0.0
+- JCI: 0.0
+- JKHY: 0.0
+- JNJ: 0.0
+- JNPR: 0.0
+- JPM: 0.0
+- K: 0.0
+- KDP: 0.0
+- KEY: 0.0
+- KEYS: 0.0
+- KHC: 0.0
+- KIM: 0.0
+- KKR: 0.0
+- KLAC: 0.0
+- KMB: 0.0
+- KMI: 0.0
+- KMX: 0.0
+- KO: 0.0
+- KR: 0.0
+- KVUE: 0.0
+- L: 0.0
+- LDOS: 0.0
+- LEN: 0.0
+- LH: 0.0
+- LHX: 0.0
+- LII: 0.0
+- LIN: 0.0
+- LKQ: 0.0
+- LLY: 0.0
+- LMT: 0.0
+- LNT: 0.0
+- LOW: 0.0
+- LRCX: 0.0
+- LULU: 0.0
+- LUV: 0.0
+- LVS: 0.0
+- LW: 0.0
+- LYB: 0.0
+- LYV: 0.0
+- MA: 0.0
+- MAA: 0.0
+- MAR: 0.0
+- MAS: 0.0
+- MCD: 0.0
+- MCHP: 0.0
+- MCK: 0.0
+- MCO: 0.0
+- MDLZ: 0.0
+- MDT: 0.0
+- MET: 0.0
+- META: 0.0
+- MGM: 0.0
+- MHK: 0.0
+- MKC: 0.0
+- MKTX: 0.0
+- MLM: 0.0
+- MMC: 0.0
+- MMM: 0.0
+- MNST: 0.0
+- MO: 0.0
+- MOH: 0.0
+- MOS: 0.0
+- MPC: 0.0
+- MPWR: 0.0
+- MRK: 0.0
+- MRNA: 0.0
+- MS: 0.0
+- MSCI: 0.0
+- MSFT: 0.0
+- MSI: 0.0
+- MTB: 0.0
+- MTCH: 0.0
+- MTD: 0.0
+- MU: 0.0
+- NCLH: 0.0
+- NDAQ: 0.0
+- NDSN: 0.0
+- NEE: 0.0
+- NEM: 0.0
+- NFLX: 0.0
+- NI: 0.0
+- NKE: 0.0
+- NOC: 0.0
+- NOW: 0.0
+- NRG: 0.0
+- NSC: 0.0
+- NTAP: 0.0
+- NTRS: 0.0
+- NUE: 0.0
+- NVDA: 0.0
+- NVR: 0.0
+- NWS: 0.0
+- NWSA: 0.0
+- NXPI: 0.0
+- O: 0.0
+- ODFL: 0.0
+- OKE: 0.0
+- OMC: 0.0
+- ON: 0.0
+- ORCL: 0.0
+- ORLY: 0.0
+- OTIS: 0.0
+- OXY: 0.0
+- PANW: 0.0
+- PARA: 0.0
+- PAYC: 0.0
+- PAYX: 0.0
+- PCAR: 0.0
+- PCG: 0.0
+- PEG: 0.0
+- PEP: 0.0
+- PFE: 0.0
+- PFG: 0.0
+- PG: 0.0
+- PGR: 0.0
+- PH: 0.0
+- PHM: 0.0
+- PKG: 0.0
+- PLD: 0.0
+- PLTR: 0.0
+- PM: 0.0
+- PNC: 0.0
+- PNR: 0.0
+- PNW: 0.0
+- PODD: 0.0
+- POOL: 0.0
+- PPG: 0.0
+- PPL: 0.0
+- PRU: 0.0
+- PSA: 0.0
+- PSX: 0.0
+- PTC: 0.0
+- PWR: 0.0
+- PYPL: 0.0
+- QCOM: 0.0
+- RCL: 0.0
+- REG: 0.0
+- REGN: 0.0
+- RF: 0.0
+- RJF: 0.0
+- RL: 0.0
+- RMD: 0.0
+- ROK: 0.0
+- ROL: 0.0
+- ROP: 0.0
+- ROST: 0.0
+- RSG: 0.0
+- RTX: 0.0
+- RVTY: 0.0
+- SBAC: 0.0
+- SBUX: 0.0
+- SCHW: 0.0
+- SHW: 0.0
+- SJM: 0.0
+- SLB: 0.0
+- SMCI: 0.0
+- SNA: 0.0
+- SNPS: 0.0
+- SO: 0.0
+- SOLV: 0.0
+- SPG: 0.0
+- SPGI: 0.0
+- SRE: 0.0
+- STE: 0.0
+- STLD: 0.0
+- STT: 0.0
+- STX: 0.0
+- STZ: 0.0
+- SW: 0.0
+- SWK: 0.0
+- SWKS: 0.0
+- SYF: 0.0
+- SYK: 0.0
+- SYY: 0.0
+- T: 0.0
+- TAP: 0.0
+- TDG: 0.0
+- TDY: 0.0
+- TECH: 0.0
+- TEL: 0.0
+- TER: 0.0
+- TFC: 0.0
+- TFX: 0.0
+- TGT: 0.0
+- TJX: 0.0
+- TMO: 0.0
+- TMUS: 0.0
+- TPL: 0.0
+- TPR: 0.0
+- TRGP: 0.0
+- TRMB: 0.0
+- TROW: 0.0
+- TRV: 0.0
+- TSCO: 0.0
+- TSLA: 0.0
+- TSN: 0.0
+- TT: 0.0
+- TTWO: 0.0
+- TXN: 0.0
+- TXT: 0.0
+- TYL: 0.0
+- UAL: 0.0
+- UBER: 0.0
+- UDR: 0.0
+- UHS: 0.0
+- ULTA: 0.0
+- UNH: 0.0
+- UNP: 0.0
+- UPS: 0.0
+- URI: 0.0
+- USB: 0.0
+- V: 0.0
+- VICI: 0.0
+- VLO: 0.0
+- VLTO: 0.0
+- VMC: 0.0
+- VRSK: 0.0
+- VRSN: 0.0
+- VRTX: 0.0
+- VST: 0.0
+- VTR: 0.0
+- VTRS: 0.0
+- VZ: 0.0
+- WAB: 0.0
+- WAT: 0.0
+- WBA: 0.0
+- WBD: 0.0
+- WDAY: 0.0
+- WDC: 0.0
+- WEC: 0.0
+- WELL: 0.0
+- WFC: 0.0
+- WM: 0.0
+- WMB: 0.0
+- WMT: 0.0
+- WRB: 0.0
+- WST: 0.0
+- WTW: 0.0
+- WY: 0.0
+- WYNN: 0.0
+- XEL: 0.0
+- XOM: 0.0
+- XYL: 0.0
+- YUM: 0.0
+- ZBH: 0.0
+- ZBRA: 0.0
+- ZTS: 0.0
+
+## Resizing Summary
+
+## Trades
+
+- A: delta=1, target_qty=0, current_qty=0, price=135.69
+- AAPL: delta=-54, target_qty=0, current_qty=54, price=243.36
+- ABBV: delta=1, target_qty=0, current_qty=0, price=181.22
+- ABNB: delta=-124, target_qty=0, current_qty=124, price=135.71
+- ABT: delta=-32, target_qty=0, current_qty=32, price=113.83
+- ACGL: delta=-28, target_qty=0, current_qty=28, price=91.4000015258789
+- ACN: delta=-12, target_qty=0, current_qty=12, price=348.869140625
+- ADBE: delta=2, target_qty=2, current_qty=0, price=430.5700073242187
+- ADI: delta=-21, target_qty=4, current_qty=25, price=213.46511840820312
+- ADM: delta=1, target_qty=26, current_qty=25, price=48.57632827758789
+- ADP: delta=-27, target_qty=0, current_qty=27, price=288.7014465332031
+- ADSK: delta=7, target_qty=7, current_qty=0, price=294.05999755859375
+- AEE: delta=1, target_qty=0, current_qty=0, price=87.56150817871094
+- AEP: delta=1, target_qty=0, current_qty=0, price=89.6514892578125
+- AES: delta=-15, target_qty=0, current_qty=15, price=12.622941970825195
+- AFL: delta=-75, target_qty=0, current_qty=75, price=101.4691925048828
+- AIG: delta=22, target_qty=22, current_qty=0, price=72.07962036132812
+- AIZ: delta=1, target_qty=0, current_qty=0, price=210.23257446289065
+- AJG: delta=-3, target_qty=0, current_qty=3, price=279.30926513671875
+- AKAM: delta=13, target_qty=13, current_qty=0, price=93.55999755859376
+- ALB: delta=1, target_qty=0, current_qty=0, price=86.7330322265625
+- ALGN: delta=1, target_qty=0, current_qty=0, price=208.2599945068359
+- ALL: delta=1, target_qty=0, current_qty=0, price=188.65023803710935
+- ALLE: delta=1, target_qty=15, current_qty=14, price=129.1719970703125
+- AMAT: delta=-11, target_qty=14, current_qty=25, price=168.70457458496094
+- AMCR: delta=248, target_qty=603, current_qty=355, price=9.085800170898438
+- AMD: delta=-72, target_qty=0, current_qty=72, price=125.37000274658205
+- AME: delta=-30, target_qty=0, current_qty=30, price=178.93931579589844
+- AMGN: delta=-13, target_qty=0, current_qty=13, price=254.78965759277344
+- AMP: delta=-14, target_qty=0, current_qty=14, price=530.9036865234375
+- AMT: delta=-12, target_qty=0, current_qty=12, price=179.65625
+- AMZN: delta=41, target_qty=41, current_qty=0, price=224.19000244140625
+- ANET: delta=-39, target_qty=0, current_qty=39, price=115.1999969482422
+- ANSS: delta=3, target_qty=3, current_qty=0, price=338.3800048828125
+- AON: delta=-12, target_qty=1, current_qty=13, price=351.85528564453125
+- AOS: delta=-44, target_qty=0, current_qty=44, price=67.58126068115234
+- APA: delta=95, target_qty=95, current_qty=0, price=22.492755889892575
+- APD: delta=1, target_qty=0, current_qty=0, price=280.39605712890625
+- APH: delta=69, target_qty=69, current_qty=0, price=69.79533386230469
+- APO: delta=-61, target_qty=18, current_qty=79, price=167.36753845214844
+- APTV: delta=19, target_qty=19, current_qty=0, price=60.529998779296875
+- ARE: delta=47, target_qty=47, current_qty=0, price=96.031494140625
+- ATO: delta=-26, target_qty=10, current_qty=36, price=136.51329040527344
+- AVB: delta=3, target_qty=3, current_qty=0, price=215.5129241943359
+- AVGO: delta=-3, target_qty=0, current_qty=3, price=231.30401611328125
+- AVY: delta=-21, target_qty=18, current_qty=39, price=183.22799682617188
+- AWK: delta=-5, target_qty=0, current_qty=5, price=121.57608032226562
+- AXON: delta=-3, target_qty=6, current_qty=9, price=601.0599975585938
+- AXP: delta=1, target_qty=0, current_qty=0, price=301.31640625
+- AZO: delta=2, target_qty=2, current_qty=0, price=3268.780029296875
+- BA: delta=52, target_qty=52, current_qty=0, price=169.89999389648438
+- BAC: delta=47, target_qty=47, current_qty=0, price=44.26811981201172
+- BALL: delta=182, target_qty=182, current_qty=0, price=53.62399673461914
+- BAX: delta=117, target_qty=166, current_qty=49, price=28.99115562438965
+- BBY: delta=-25, target_qty=0, current_qty=25, price=81.43975067138672
+- BDX: delta=28, target_qty=28, current_qty=0, price=226.0612640380859
+- BEN: delta=240, target_qty=240, current_qty=0, price=19.79770278930664
+- BF.B: no change
+- BG: delta=-29, target_qty=24, current_qty=53, price=75.21834564208984
+- BIIB: delta=25, target_qty=25, current_qty=0, price=152.2100067138672
+- BK: delta=1, target_qty=0, current_qty=0, price=75.6343765258789
+- BKNG: delta=1, target_qty=0, current_qty=0, price=4885.3916015625
+- BKR: delta=-65, target_qty=0, current_qty=65, price=41.96556854248047
+- BLDR: delta=1, target_qty=0, current_qty=0, price=144.02999877929688
+- BLK: delta=1, target_qty=0, current_qty=0, price=1009.9391479492188
+- BMY: delta=39, target_qty=39, current_qty=0, price=55.23492813110352
+- BR: delta=5, target_qty=5, current_qty=0, price=227.5007781982422
+- BRK.B: no change
+- BRO: delta=1, target_qty=0, current_qty=0, price=101.1490478515625
+- BSX: delta=-29, target_qty=0, current_qty=29, price=90.69000244140624
+- BWA: delta=-85, target_qty=0, current_qty=85, price=31.29914093017578
+- BX: delta=3, target_qty=3, current_qty=0, price=172.15443420410156
+- BXP: delta=1, target_qty=0, current_qty=0, price=72.77066802978516
+- C: delta=114, target_qty=114, current_qty=0, price=69.49529266357422
+- CAG: delta=-295, target_qty=85, current_qty=380, price=26.398653030395508
+- CAH: delta=46, target_qty=46, current_qty=0, price=118.50030517578124
+- CARR: delta=1, target_qty=0, current_qty=0, price=68.83403778076172
+- CAT: delta=9, target_qty=18, current_qty=9, price=359.4077453613281
+- CB: delta=58, target_qty=58, current_qty=0, price=269.96478271484375
+- CBOE: delta=-52, target_qty=0, current_qty=52, price=194.1090087890625
+- CBRE: delta=-25, target_qty=18, current_qty=43, price=131.5
+- CCI: delta=-13, target_qty=36, current_qty=49, price=87.56836700439453
+- CCL: delta=-542, target_qty=0, current_qty=542, price=24.3799991607666
+- CDNS: delta=8, target_qty=8, current_qty=0, price=303.8599853515625
+- CDW: delta=-6, target_qty=0, current_qty=6, price=172.4072265625
+- CE: delta=-109, target_qty=0, current_qty=109, price=66.01274871826172
+- CEG: delta=-24, target_qty=0, current_qty=24, price=251.2818145751953
+- CF: delta=1, target_qty=0, current_qty=0, price=86.94229888916016
+- CFG: delta=130, target_qty=130, current_qty=0, price=43.30215072631836
+- CHD: delta=-33, target_qty=0, current_qty=33, price=103.69109344482422
+- CHRW: delta=1, target_qty=0, current_qty=0, price=103.10638427734376
+- CHTR: delta=-15, target_qty=0, current_qty=15, price=358.3500061035156
+- CI: delta=1, target_qty=0, current_qty=0, price=277.9886474609375
+- CINF: delta=25, target_qty=25, current_qty=0, price=140.40609741210938
+- CL: delta=1, target_qty=0, current_qty=0, price=90.15
+- CLX: delta=17, target_qty=29, current_qty=12, price=162.89
+- CMCSA: delta=1, target_qty=0, current_qty=0, price=37.67
+- CME: delta=1, target_qty=0, current_qty=0, price=232.5
+- CMG: delta=-30, target_qty=6, current_qty=36, price=59.7
+- CMI: delta=1, target_qty=0, current_qty=0, price=348.89837646484375
+- CMS: delta=-28, target_qty=9, current_qty=37, price=65.11972045898438
+- CNC: delta=24, target_qty=24, current_qty=0, price=61.47999954223633
+- CNP: delta=2, target_qty=2, current_qty=0, price=31.068145751953125
+- COF: delta=1, target_qty=0, current_qty=0, price=178.83538818359375
+- COO: delta=-86, target_qty=0, current_qty=86, price=91.79000091552734
+- COP: delta=21, target_qty=21, current_qty=0, price=98.61650848388672
+- COR: delta=36, target_qty=44, current_qty=8, price=227.8189239501953
+- COST: delta=8, target_qty=8, current_qty=0, price=913.1119995117188
+- CPAY: delta=-21, target_qty=0, current_qty=21, price=341.8500061035156
+- CPB: delta=-16, target_qty=134, current_qty=150, price=40.82211685180664
+- CPRT: delta=10, target_qty=10, current_qty=0, price=56.90999984741211
+- CPT: delta=-43, target_qty=0, current_qty=43, price=114.9936294555664
+- CRL: delta=7, target_qty=7, current_qty=0, price=185.8000030517578
+- CRM: delta=-19, target_qty=0, current_qty=19, price=331.8515319824219
+- CRWD: delta=10, target_qty=24, current_qty=14, price=359.0199890136719
+- CSCO: delta=63, target_qty=63, current_qty=0, price=58.12012481689453
+- CSGP: delta=-39, target_qty=0, current_qty=39, price=72.25
+- CSX: delta=1, target_qty=0, current_qty=0, price=31.947725296020508
+- CTAS: delta=50, target_qty=50, current_qty=0, price=184.7839813232422
+- CTRA: delta=1, target_qty=0, current_qty=0, price=25.56442642211914
+- CTSH: delta=1, target_qty=0, current_qty=0, price=75.49337768554688
+- CTVA: delta=-50, target_qty=0, current_qty=50, price=55.65504455566406
+- CVS: delta=-60, target_qty=0, current_qty=60, price=44.25181579589844
+- CVX: delta=25, target_qty=35, current_qty=10, price=142.8778839111328
+- CZR: delta=-105, target_qty=0, current_qty=105, price=32.5099983215332
+- D: delta=320, target_qty=321, current_qty=1, price=53.43618392944336
+- DAL: delta=-195, target_qty=0, current_qty=195, price=58.47809982299805
+- DAY: delta=6, target_qty=6, current_qty=0, price=72.5199966430664
+- DD: delta=1, target_qty=0, current_qty=0, price=73.54265594482422
+- DE: delta=-6, target_qty=0, current_qty=6, price=419.4221801757813
+- DECK: delta=10, target_qty=10, current_qty=0, price=207.25
+- DELL: delta=1, target_qty=0, current_qty=0, price=118.18750762939452
+- DFS: no change
+- DG: delta=54, target_qty=54, current_qty=0, price=73.24068450927734
+- DGX: delta=42, target_qty=42, current_qty=0, price=149.76327514648438
+- DHI: delta=31, target_qty=31, current_qty=0, price=138.6737060546875
+- DHR: delta=12, target_qty=12, current_qty=0, price=234.10987854003903
+- DIS: delta=47, target_qty=70, current_qty=23, price=110.68798828125
+- DLR: delta=-3, target_qty=14, current_qty=17, price=178.97523498535156
+- DLTR: delta=-95, target_qty=0, current_qty=95, price=73.36000061035156
+- DOC: delta=282, target_qty=282, current_qty=0, price=19.54021453857422
+- DOV: delta=-8, target_qty=21, current_qty=29, price=186.46420288085935
+- DOW: delta=1, target_qty=0, current_qty=0, price=37.20417785644531
+- DPZ: delta=18, target_qty=18, current_qty=0, price=434.6184997558594
+- DRI: delta=-9, target_qty=0, current_qty=9, price=183.6758575439453
+- DTE: delta=-46, target_qty=2, current_qty=48, price=119.62808990478516
+- DUK: delta=45, target_qty=45, current_qty=0, price=104.9219970703125
+- DVA: delta=-96, target_qty=0, current_qty=96, price=152.82000732421875
+- DVN: delta=-27, target_qty=0, current_qty=27, price=33.453487396240234
+- DXCM: delta=1, target_qty=0, current_qty=0, price=81.06999969482422
+- EA: delta=-14, target_qty=0, current_qty=14, price=145.7291259765625
+- EBAY: delta=1, target_qty=0, current_qty=0, price=60.89649963378906
+- ECL: delta=-15, target_qty=0, current_qty=15, price=230.7665100097656
+- ED: delta=8, target_qty=9, current_qty=1, price=86.9814682006836
+- EFX: delta=-9, target_qty=0, current_qty=9, price=252.50013732910156
+- EG: delta=15, target_qty=15, current_qty=0, price=360.9913330078125
+- EIX: delta=130, target_qty=171, current_qty=41, price=76.53826904296875
+- EL: delta=-11, target_qty=43, current_qty=54, price=71.44786071777344
+- ELV: delta=-4, target_qty=0, current_qty=4, price=368.3843078613281
+- EMN: delta=-10, target_qty=14, current_qty=24, price=86.93350219726562
+- EMR: delta=1, target_qty=0, current_qty=0, price=121.89923095703124
+- ENPH: delta=-5, target_qty=14, current_qty=19, price=72.1500015258789
+- EOG: delta=49, target_qty=49, current_qty=0, price=123.51393127441406
+- EPAM: delta=36, target_qty=36, current_qty=0, price=230.72000122070312
+- EQIX: delta=3, target_qty=3, current_qty=0, price=944.1307983398438
+- EQR: delta=35, target_qty=45, current_qty=10, price=69.5071029663086
+- EQT: delta=194, target_qty=194, current_qty=0, price=46.59949493408203
+- ERIE: delta=-4, target_qty=0, current_qty=4, price=410.2331848144531
+- ES: delta=29, target_qty=57, current_qty=28, price=55.93011093139648
+- ESS: delta=6, target_qty=6, current_qty=0, price=279.3246154785156
+- ETN: delta=-2, target_qty=0, current_qty=2, price=339.15765380859375
+- ETR: delta=1, target_qty=0, current_qty=0, price=75.07492065429688
+- EVRG: delta=-32, target_qty=0, current_qty=32, price=59.75239944458008
+- EW: delta=11, target_qty=31, current_qty=20, price=73.91000366210938
+- EXC: delta=1, target_qty=0, current_qty=0, price=37.035884857177734
+- EXPD: delta=1, target_qty=0, current_qty=0, price=110.51990509033205
+- EXPE: delta=19, target_qty=19, current_qty=0, price=184.90809631347656
+- EXR: delta=1, target_qty=0, current_qty=0, price=147.7294158935547
+- F: delta=71, target_qty=393, current_qty=322, price=9.30479621887207
+- FANG: delta=-68, target_qty=0, current_qty=68, price=167.38536071777344
+- FAST: delta=191, target_qty=191, current_qty=0, price=35.26729965209961
+- FCX: delta=-5, target_qty=0, current_qty=5, price=37.27688980102539
+- FDS: delta=-13, target_qty=0, current_qty=13, price=471.4694519042969
+- FDX: delta=34, target_qty=34, current_qty=0, price=271.1679382324219
+- FE: delta=-29, target_qty=38, current_qty=67, price=38.68964385986328
+- FFIV: delta=-8, target_qty=13, current_qty=21, price=254.36000061035156
+- FI: delta=1, target_qty=0, current_qty=0, price=208.57000732421875
+- FICO: delta=1, target_qty=0, current_qty=0, price=1966.260009765625
+- FIS: delta=1, target_qty=0, current_qty=0, price=79.41875457763672
+- FITB: delta=-82, target_qty=132, current_qty=214, price=41.61162567138672
+- FMC: delta=10, target_qty=75, current_qty=65, price=47.21620559692383
+- FOX: delta=1, target_qty=0, current_qty=0, price=46.48023223876953
+- FOXA: delta=-56, target_qty=0, current_qty=56, price=49.08313751220703
+- FRT: delta=1, target_qty=0, current_qty=0, price=107.14193725585938
+- FSLR: delta=1, target_qty=0, current_qty=0, price=186.42999267578125
+- FTNT: delta=-136, target_qty=0, current_qty=136, price=97.47000122070312
+- FTV: delta=1, target_qty=0, current_qty=0, price=57.13920211791992
+- GD: delta=6, target_qty=6, current_qty=0, price=259.2035217285156
+- GDDY: delta=1, target_qty=0, current_qty=0, price=200.38999938964844
+- GE: delta=1, target_qty=0, current_qty=0, price=171.39036560058594
+- GEHC: delta=-5, target_qty=0, current_qty=5, price=80.40830993652344
+- GEN: delta=263, target_qty=263, current_qty=0, price=27.1502628326416
+- GEV: delta=1, target_qty=0, current_qty=0, price=353.6063537597656
+- GILD: delta=-54, target_qty=0, current_qty=54, price=90.1329345703125
+- GIS: delta=-43, target_qty=0, current_qty=43, price=61.851924896240234
+- GL: delta=-14, target_qty=0, current_qty=14, price=110.7950210571289
+- GLW: delta=250, target_qty=250, current_qty=0, price=46.77310562133789
+- GM: delta=28, target_qty=28, current_qty=0, price=51.47444915771485
+- GNRC: delta=23, target_qty=26, current_qty=3, price=158.8800048828125
+- GOOG: delta=1, target_qty=0, current_qty=0, price=192.6786346435547
+- GOOGL: delta=-4, target_qty=0, current_qty=4, price=191.33773803710935
+- GPC: delta=-21, target_qty=0, current_qty=21, price=114.95792388916016
+- GPN: delta=1, target_qty=0, current_qty=0, price=111.91610717773438
+- GRMN: delta=-8, target_qty=21, current_qty=29, price=205.48521423339844
+- GS: delta=1, target_qty=0, current_qty=0, price=571.3458862304688
+- GWW: delta=7, target_qty=7, current_qty=0, price=1047.114990234375
+- HAL: delta=-6, target_qty=5, current_qty=11, price=27.256446838378903
+- HAS: delta=1, target_qty=0, current_qty=0, price=55.12765121459961
+- HBAN: delta=-22, target_qty=274, current_qty=296, price=16.118162155151367
+- HCA: delta=16, target_qty=16, current_qty=0, price=295.4569396972656
+- HD: delta=1, target_qty=11, current_qty=10, price=384.3373107910156
+- HES: delta=40, target_qty=61, current_qty=21, price=135.45187377929688
+- HIG: delta=-33, target_qty=0, current_qty=33, price=108.5819854736328
+- HII: delta=1, target_qty=0, current_qty=0, price=184.5870361328125
+- HLT: delta=1, target_qty=0, current_qty=0, price=246.0984039306641
+- HOLX: delta=-1, target_qty=0, current_qty=1, price=73.19000244140625
+- HON: delta=1, target_qty=0, current_qty=0, price=223.0078582763672
+- HPE: delta=1, target_qty=0, current_qty=0, price=21.48802375793457
+- HPQ: delta=179, target_qty=179, current_qty=0, price=32.43443298339844
+- HRL: delta=1, target_qty=0, current_qty=0, price=30.46782875061035
+- HSIC: delta=-84, target_qty=0, current_qty=84, price=69.08999633789062
+- HST: delta=365, target_qty=464, current_qty=99, price=16.98708724975586
+- HSY: delta=43, target_qty=43, current_qty=0, price=164.92428588867188
+- HUBB: delta=1, target_qty=0, current_qty=0, price=426.72418212890625
+- HUM: delta=-25, target_qty=0, current_qty=25, price=260.6457824707031
+- HWM: delta=33, target_qty=55, current_qty=22, price=112.5266342163086
+- IBM: delta=6, target_qty=6, current_qty=0, price=218.2388458251953
+- ICE: delta=-20, target_qty=0, current_qty=20, price=149.01904296875
+- IDXX: delta=13, target_qty=13, current_qty=0, price=415.5299987792969
+- IEX: delta=-9, target_qty=10, current_qty=19, price=204.80760192871097
+- IFF: delta=1, target_qty=0, current_qty=0, price=81.6675033569336
+- INCY: delta=1, target_qty=0, current_qty=0, price=69.62999725341797
+- INTC: delta=-29, target_qty=6, current_qty=35, price=20.559999465942383
+- INTU: delta=6, target_qty=6, current_qty=0, price=627.2373046875
+- INVH: delta=-110, target_qty=0, current_qty=110, price=31.382020950317383
+- IP: delta=-141, target_qty=107, current_qty=248, price=51.4073600769043
+- IPG: delta=-73, target_qty=0, current_qty=73, price=27.4084415435791
+- IQV: delta=6, target_qty=6, current_qty=0, price=197.38999938964844
+- IR: delta=3, target_qty=3, current_qty=0, price=92.42218017578124
+- IRM: delta=1, target_qty=0, current_qty=0, price=103.93272399902344
+- ISRG: delta=29, target_qty=29, current_qty=0, price=535.2899780273438
+- IT: delta=1, target_qty=0, current_qty=0, price=485.9700012207031
+- ITW: delta=1, target_qty=0, current_qty=0, price=249.2382049560547
+- IVZ: delta=-15, target_qty=0, current_qty=15, price=17.14794158935547
+- J: delta=23, target_qty=35, current_qty=12, price=131.5264434814453
+- JBHT: delta=4, target_qty=4, current_qty=0, price=174.2530059814453
+- JBL: delta=8, target_qty=8, current_qty=0, price=149.46267700195312
+- JCI: delta=35, target_qty=70, current_qty=35, price=79.274658203125
+- JKHY: delta=1, target_qty=0, current_qty=0, price=172.58139038085938
+- JNJ: delta=-1, target_qty=0, current_qty=1, price=140.79563903808594
+- JNPR: delta=-116, target_qty=0, current_qty=116, price=37.48841094970703
+- JPM: delta=24, target_qty=24, current_qty=0, price=239.39501953125
+- K: delta=-4, target_qty=26, current_qty=30, price=80.09526824951172
+- KDP: delta=1, target_qty=0, current_qty=0, price=31.11017608642578
+- KEY: delta=597, target_qty=690, current_qty=93, price=16.85750961303711
+- KEYS: delta=17, target_qty=17, current_qty=0, price=163.8000030517578
+- KHC: delta=-181, target_qty=0, current_qty=181, price=29.340375900268555
+- KIM: delta=-104, target_qty=172, current_qty=276, price=22.625226974487305
+- KKR: delta=-2, target_qty=0, current_qty=2, price=151.404541015625
+- KLAC: delta=1, target_qty=0, current_qty=0, price=652.5348510742188
+- KMB: delta=1, target_qty=0, current_qty=0, price=127.41419982910156
+- KMI: delta=53, target_qty=53, current_qty=0, price=27.383028030395508
+- KMX: delta=-5, target_qty=17, current_qty=22, price=80.06999969482422
+- KO: delta=1, target_qty=0, current_qty=0, price=60.86490249633789
+- KR: delta=1, target_qty=0, current_qty=0, price=60.5576057434082
+- KVUE: delta=1, target_qty=0, current_qty=0, price=20.61262321472168
+- L: delta=1, target_qty=0, current_qty=0, price=84.17255401611328
+- LDOS: delta=-15, target_qty=0, current_qty=15, price=146.3135528564453
+- LEN: delta=30, target_qty=39, current_qty=9, price=129.88287353515625
+- LH: delta=-21, target_qty=0, current_qty=21, price=227.24215698242188
+- LHX: delta=22, target_qty=22, current_qty=0, price=207.57693481445312
+- LII: delta=1, target_qty=0, current_qty=0, price=609.9922485351562
+- LIN: delta=5, target_qty=5, current_qty=0, price=410.8150329589844
+- LKQ: delta=1, target_qty=0, current_qty=0, price=35.731300354003906
+- LLY: delta=-1, target_qty=0, current_qty=1, price=777.3303833007812
+- LMT: delta=-6, target_qty=0, current_qty=6, price=475.0175476074219
+- LNT: delta=1, target_qty=0, current_qty=0, price=56.9181022644043
+- LOW: delta=-18, target_qty=11, current_qty=29, price=244.79837036132812
+- LRCX: delta=-42, target_qty=0, current_qty=42, price=74.6981201171875
+- LULU: delta=-25, target_qty=0, current_qty=25, price=378.1799926757813
+- LUV: delta=-239, target_qty=107, current_qty=346, price=33.220550537109375
+- LVS: delta=35, target_qty=35, current_qty=0, price=49.56201934814453
+- LW: delta=62, target_qty=64, current_qty=2, price=64.25479888916016
+- LYB: delta=1, target_qty=0, current_qty=0, price=68.15087890625
+- LYV: delta=15, target_qty=39, current_qty=24, price=129.49000549316406
+- MA: delta=1, target_qty=0, current_qty=0, price=519.0659790039062
+- MAA: delta=-12, target_qty=0, current_qty=12, price=150.51731872558594
+- MAR: delta=1, target_qty=0, current_qty=0, price=273.2629089355469
+- MAS: delta=1, target_qty=0, current_qty=0, price=71.2311019897461
+- MCD: delta=1, target_qty=0, current_qty=0, price=291.4349060058594
+- MCHP: delta=72, target_qty=72, current_qty=0, price=56.40977478027344
+- MCK: delta=-5, target_qty=1, current_qty=6, price=576.2305297851562
+- MCO: delta=1, target_qty=0, current_qty=0, price=476.4677734375
+- MDLZ: delta=-16, target_qty=11, current_qty=27, price=59.0323486328125
+- MDT: delta=2, target_qty=2, current_qty=0, price=79.65150451660156
+- MET: delta=16, target_qty=66, current_qty=50, price=80.4710464477539
+- META: delta=1, target_qty=0, current_qty=0, price=603.6280517578125
+- MGM: delta=1, target_qty=0, current_qty=0, price=34.09000015258789
+- MHK: delta=48, target_qty=48, current_qty=0, price=117.30999755859376
+- MKC: delta=-86, target_qty=0, current_qty=86, price=74.95207214355469
+- MKTX: delta=4, target_qty=9, current_qty=5, price=223.89891052246097
+- MLM: delta=1, target_qty=0, current_qty=0, price=515.0809326171875
+- MMC: delta=9, target_qty=9, current_qty=0, price=208.88087463378903
+- MMM: delta=54, target_qty=54, current_qty=0, price=128.0111846923828
+- MNST: delta=-47, target_qty=0, current_qty=47, price=52.38999938964844
+- MO: delta=9, target_qty=9, current_qty=0, price=51.30957794189453
+- MOH: delta=7, target_qty=7, current_qty=0, price=294.489990234375
+- MOS: delta=-92, target_qty=0, current_qty=92, price=24.77179718017578
+- MPC: delta=54, target_qty=54, current_qty=0, price=140.34242248535156
+- MPWR: delta=1, target_qty=0, current_qty=0, price=616.8922119140625
+- MRK: delta=1, target_qty=0, current_qty=0, price=97.31649780273438
+- MRNA: delta=-10, target_qty=0, current_qty=10, price=42.18000030517578
+- MS: delta=20, target_qty=20, current_qty=0, price=123.25542449951172
+- MSCI: delta=6, target_qty=6, current_qty=0, price=595.8106689453125
+- MSFT: delta=-7, target_qty=0, current_qty=7, price=421.0364685058594
+- MSI: delta=3, target_qty=3, current_qty=0, price=459.4089050292969
+- MTB: delta=-20, target_qty=0, current_qty=20, price=188.7854461669922
+- MTCH: delta=1, target_qty=0, current_qty=0, price=32.104698181152344
+- MTD: delta=1, target_qty=0, current_qty=0, price=1238.280029296875
+- MU: delta=-22, target_qty=0, current_qty=22, price=89.66873931884766
+- NCLH: delta=278, target_qty=278, current_qty=0, price=25.420000076293945
+- NDAQ: delta=86, target_qty=86, current_qty=0, price=77.71766662597656
+- NDSN: delta=-33, target_qty=0, current_qty=33, price=206.0305023193359
+- NEE: delta=1, target_qty=0, current_qty=0, price=70.28504180908203
+- NEM: delta=103, target_qty=103, current_qty=0, price=37.70854568481445
+- NFLX: delta=-1, target_qty=1, current_qty=2, price=881.0499877929688
+- NI: delta=29, target_qty=29, current_qty=0, price=35.62579345703125
+- NKE: delta=14, target_qty=14, current_qty=0, price=72.45928192138672
+- NOC: delta=-1, target_qty=0, current_qty=1, price=463.5135803222656
+- NOW: delta=8, target_qty=8, current_qty=0, price=1073.77001953125
+- NRG: delta=-36, target_qty=47, current_qty=83, price=97.4260482788086
+- NSC: delta=1, target_qty=0, current_qty=0, price=232.0531768798828
+- NTAP: delta=1, target_qty=0, current_qty=0, price=115.6333999633789
+- NTRS: delta=1, target_qty=0, current_qty=0, price=101.75202941894533
+- NUE: delta=-43, target_qty=36, current_qty=79, price=114.4483642578125
+- NVDA: delta=-3, target_qty=0, current_qty=3, price=144.44668579101562
+- NVR: delta=1, target_qty=0, current_qty=0, price=8070.60009765625
+- NWS: delta=28, target_qty=28, current_qty=0, price=30.40084648132324
+- NWSA: delta=-194, target_qty=0, current_qty=194, price=27.447734832763672
+- NXPI: delta=-2, target_qty=18, current_qty=20, price=208.86
+- O: delta=11, target_qty=11, current_qty=0, price=53.28
+- ODFL: delta=-13, target_qty=24, current_qty=37, price=180.91
+- OKE: delta=31, target_qty=31, current_qty=0, price=102.9
+- OMC: delta=-32, target_qty=0, current_qty=32, price=85.89
+- ON: delta=1, target_qty=0, current_qty=0, price=63.90999984741211
+- ORCL: delta=1, target_qty=0, current_qty=0, price=164.96780395507812
+- ORLY: delta=1, target_qty=0, current_qty=0, price=80.28133392333984
+- OTIS: delta=-79, target_qty=0, current_qty=79, price=91.68133544921876
+- OXY: delta=-99, target_qty=0, current_qty=99, price=49.974456787109375
+- PANW: delta=62, target_qty=62, current_qty=0, price=183.25
+- PARA: delta=505, target_qty=505, current_qty=0, price=10.57968521118164
+- PAYC: delta=1, target_qty=0, current_qty=0, price=202.87942504882812
+- PAYX: delta=-100, target_qty=14, current_qty=114, price=136.73219299316406
+- PCAR: delta=24, target_qty=29, current_qty=5, price=103.87354278564452
+- PCG: delta=1, target_qty=0, current_qty=0, price=20.333599090576172
+- PEG: delta=-2, target_qty=8, current_qty=10, price=84.89083862304688
+- PEP: delta=34, target_qty=49, current_qty=15, price=146.72848510742188
+- PFE: delta=-181, target_qty=5, current_qty=186, price=25.232494354248047
+- PFG: delta=-37, target_qty=0, current_qty=37, price=76.45166015625
+- PG: delta=1, target_qty=0, current_qty=0, price=162.00454711914062
+- PGR: delta=1, target_qty=0, current_qty=0, price=237.46920776367188
+- PH: delta=-3, target_qty=0, current_qty=3, price=634.3919677734375
+- PHM: delta=-12, target_qty=35, current_qty=47, price=109.58106231689452
+- PKG: delta=19, target_qty=19, current_qty=0, price=222.95855712890625
+- PLD: delta=-111, target_qty=0, current_qty=111, price=103.70781707763672
+- PLTR: delta=-70, target_qty=0, current_qty=70, price=79.88999938964844
+- PM: delta=-90, target_qty=0, current_qty=90, price=120.04852294921876
+- PNC: delta=19, target_qty=19, current_qty=0, price=190.37892150878903
+- PNR: delta=-44, target_qty=0, current_qty=44, price=100.27014923095705
+- PNW: delta=-50, target_qty=27, current_qty=77, price=81.77595520019531
+- PODD: delta=1, target_qty=0, current_qty=0, price=266.29998779296875
+- POOL: delta=-20, target_qty=0, current_qty=20, price=333.4673156738281
+- PPG: delta=-2, target_qty=6, current_qty=8, price=112.15543365478516
+- PPL: delta=-60, target_qty=16, current_qty=76, price=31.753786087036133
+- PRU: delta=-38, target_qty=1, current_qty=39, price=114.75513458251952
+- PSA: delta=14, target_qty=14, current_qty=0, price=294.5064392089844
+- PSX: delta=43, target_qty=43, current_qty=0, price=112.84201049804688
+- PTC: delta=16, target_qty=16, current_qty=0, price=184.5399932861328
+- PWR: delta=-1, target_qty=11, current_qty=12, price=326.31024169921875
+- PYPL: delta=-53, target_qty=37, current_qty=90, price=87.5999984741211
+- QCOM: delta=1, target_qty=0, current_qty=0, price=156.04617309570312
+- RCL: delta=1, target_qty=0, current_qty=0, price=227.501953125
+- REG: delta=1, target_qty=0, current_qty=0, price=71.62979125976562
+- REGN: delta=18, target_qty=18, current_qty=0, price=715.08447265625
+- RF: delta=1, target_qty=0, current_qty=0, price=23.098434448242188
+- RJF: delta=-1, target_qty=0, current_qty=1, price=156.6399688720703
+- RL: delta=14, target_qty=14, current_qty=0, price=232.8508758544922
+- RMD: delta=3, target_qty=5, current_qty=2, price=230.1703338623047
+- ROK: delta=28, target_qty=28, current_qty=0, price=279.265380859375
+- ROL: delta=211, target_qty=211, current_qty=0, price=45.75885009765625
+- ROP: delta=1, target_qty=0, current_qty=0, price=513.1585693359375
+- ROST: delta=-32, target_qty=7, current_qty=39, price=153.31434631347656
+- RSG: delta=31, target_qty=31, current_qty=0, price=200.0861358642578
+- RTX: delta=28, target_qty=86, current_qty=58, price=114.1988525390625
+- RVTY: delta=-45, target_qty=15, current_qty=60, price=113.36561584472656
+- SBAC: delta=-23, target_qty=17, current_qty=40, price=198.81292724609375
+- SBUX: delta=-54, target_qty=0, current_qty=54, price=90.8371810913086
+- SCHW: delta=1, target_qty=0, current_qty=0, price=73.758056640625
+- SHW: delta=1, target_qty=1, current_qty=0, price=334.3480529785156
+- SJM: delta=-2, target_qty=15, current_qty=17, price=108.2472686767578
+- SLB: delta=83, target_qty=83, current_qty=0, price=38.00297927856445
+- SMCI: delta=-40, target_qty=0, current_qty=40, price=33.33000183105469
+- SNA: delta=12, target_qty=12, current_qty=0, price=329.5790710449219
+- SNPS: delta=1, target_qty=10, current_qty=9, price=493.7099914550781
+- SO: delta=4, target_qty=4, current_qty=0, price=80.30973815917969
+- SOLV: delta=178, target_qty=178, current_qty=0, price=67.12000274658203
+- SPG: delta=24, target_qty=24, current_qty=0, price=171.65602111816406
+- SPGI: delta=1, target_qty=0, current_qty=0, price=496.8782653808594
+- SRE: delta=97, target_qty=98, current_qty=1, price=86.12764739990234
+- STE: delta=-13, target_qty=0, current_qty=13, price=203.1163024902344
+- STLD: delta=1, target_qty=0, current_qty=0, price=112.26419830322266
+- STT: delta=1, target_qty=0, current_qty=0, price=96.14878845214844
+- STX: delta=-18, target_qty=0, current_qty=18, price=87.95878601074219
+- STZ: delta=-35, target_qty=0, current_qty=35, price=218.12484741210935
+- SW: delta=111, target_qty=163, current_qty=52, price=50.90114974975586
+- SWK: delta=-29, target_qty=5, current_qty=34, price=78.94692993164062
+- SWKS: delta=45, target_qty=45, current_qty=0, price=86.23257446289062
+- SYF: delta=-93, target_qty=0, current_qty=93, price=65.88288879394531
+- SYK: delta=8, target_qty=16, current_qty=8, price=359.9169921875
+- SYY: delta=1, target_qty=0, current_qty=0, price=74.3990478515625
+- T: delta=1, target_qty=0, current_qty=0, price=21.931610107421875
+- TAP: delta=124, target_qty=124, current_qty=0, price=54.35431289672851
+- TDG: delta=-2, target_qty=0, current_qty=2, price=1275.56005859375
+- TDY: delta=-2, target_qty=0, current_qty=2, price=459.7000122070313
+- TECH: delta=1, target_qty=0, current_qty=0, price=73.4718017578125
+- TEL: delta=-10, target_qty=2, current_qty=12, price=140.687255859375
+- TER: delta=-21, target_qty=35, current_qty=56, price=130.26290893554688
+- TFC: delta=-159, target_qty=42, current_qty=201, price=42.5109977722168
+- TFX: delta=-56, target_qty=0, current_qty=56, price=180.30941772460935
+- TGT: delta=-37, target_qty=0, current_qty=37, price=131.69175720214844
+- TJX: delta=1, target_qty=0, current_qty=0, price=119.59609985351562
+- TMO: delta=2, target_qty=4, current_qty=2, price=531.0200805664062
+- TMUS: delta=-21, target_qty=0, current_qty=21, price=216.81288146972656
+- TPL: delta=1, target_qty=0, current_qty=0, price=1207.9356689453125
+- TPR: delta=-46, target_qty=0, current_qty=46, price=66.18875122070312
+- TRGP: delta=-20, target_qty=0, current_qty=20, price=183.3461151123047
+- TRMB: delta=1, target_qty=0, current_qty=0, price=70.56999969482422
+- TROW: delta=1, target_qty=0, current_qty=0, price=111.58868408203124
+- TRV: delta=1, target_qty=0, current_qty=0, price=240.31155395507812
+- TSCO: delta=-168, target_qty=0, current_qty=168, price=51.29217529296875
+- TSLA: delta=-1, target_qty=0, current_qty=1, price=410.44000244140625
+- TSN: delta=1, target_qty=0, current_qty=0, price=56.679412841796875
+- TT: delta=1, target_qty=0, current_qty=0, price=379.232421875
+- TTWO: delta=-25, target_qty=0, current_qty=25, price=188.75
+- TXN: delta=3, target_qty=3, current_qty=0, price=186.1661834716797
+- TXT: delta=26, target_qty=26, current_qty=0, price=75.68949890136719
+- TYL: delta=2, target_qty=2, current_qty=0, price=584.1699829101562
+- UAL: delta=1, target_qty=0, current_qty=0, price=95.66999816894533
+- UBER: delta=31, target_qty=50, current_qty=19, price=64.58999633789062
+- UDR: delta=-49, target_qty=33, current_qty=82, price=41.74391174316406
+- UHS: delta=46, target_qty=47, current_qty=1, price=178.4980926513672
+- ULTA: delta=1, target_qty=0, current_qty=0, price=431.3500061035156
+- UNH: delta=5, target_qty=8, current_qty=3, price=507.21630859375
+- UNP: delta=-1, target_qty=0, current_qty=1, price=227.4273376464844
+- UPS: delta=-36, target_qty=18, current_qty=54, price=117.8422622680664
+- URI: delta=1, target_qty=0, current_qty=0, price=690.5864868164062
+- USB: delta=150, target_qty=156, current_qty=6, price=47.754356384277344
+- V: delta=8, target_qty=8, current_qty=0, price=313.3084716796875
+- VICI: delta=1, target_qty=0, current_qty=0, price=28.67663955688477
+- VLO: delta=30, target_qty=37, current_qty=7, price=121.2255630493164
+- VLTO: delta=-11, target_qty=0, current_qty=11, price=100.57496643066406
+- VMC: delta=-6, target_qty=0, current_qty=6, price=255.6724395751953
+- VRSK: delta=1, target_qty=0, current_qty=0, price=275.4551086425781
+- VRSN: delta=-46, target_qty=14, current_qty=60, price=204.4708709716797
+- VRTX: delta=1, target_qty=0, current_qty=0, price=407.1099853515625
+- VST: delta=10, target_qty=22, current_qty=12, price=161.874755859375
+- VTR: delta=-108, target_qty=0, current_qty=108, price=57.46094512939453
+- VTRS: delta=1, target_qty=0, current_qty=0, price=11.821873664855955
+- VZ: delta=1, target_qty=0, current_qty=0, price=38.31416702270508
+- WAB: delta=-22, target_qty=0, current_qty=22, price=189.71929931640625
+- WAT: delta=-4, target_qty=0, current_qty=4, price=371.760009765625
+- WBA: delta=583, target_qty=767, current_qty=184, price=9.5
+- WBD: delta=377, target_qty=377, current_qty=0, price=10.56999969482422
+- WDAY: delta=-25, target_qty=0, current_qty=25, price=252.83999633789065
+- WDC: delta=154, target_qty=154, current_qty=0, price=48.33774948120117
+- WEC: delta=70, target_qty=70, current_qty=0, price=91.43241119384766
+- WELL: delta=-70, target_qty=0, current_qty=70, price=124.13362121582033
+- WFC: delta=-33, target_qty=0, current_qty=33, price=70.16033172607422
+- WM: delta=-9, target_qty=3, current_qty=12, price=200.21011352539065
+- WMB: delta=199, target_qty=199, current_qty=0, price=55.62941360473633
+- WMT: delta=142, target_qty=142, current_qty=0, price=90.1025848388672
+- WRB: delta=54, target_qty=116, current_qty=62, price=57.393680572509766
+- WST: delta=-4, target_qty=0, current_qty=4, price=334.7387390136719
+- WTW: delta=-17, target_qty=0, current_qty=17, price=307.2655334472656
+- WY: delta=-169, target_qty=44, current_qty=213, price=27.709735870361328
+- WYNN: delta=1, target_qty=0, current_qty=0, price=82.68868255615234
+- XEL: delta=-75, target_qty=0, current_qty=75, price=65.05168151855469
+- XOM: delta=10, target_qty=10, current_qty=0, price=104.95154571533205
+- XYL: delta=-43, target_qty=11, current_qty=54, price=116.12376403808594
+- YUM: delta=1, target_qty=0, current_qty=0, price=132.16409301757812
+- ZBH: delta=119, target_qty=119, current_qty=0, price=103.9770278930664
+- ZBRA: delta=1, target_qty=0, current_qty=0, price=391.8599853515625
+- ZTS: delta=1, target_qty=0, current_qty=0, price=161.72938537597656
+
+## Risk Parity Reference
+
+```json
+{
+  "error": "Risk parity calculation failed: all the input array dimensions except for the concatenation axis must match exactly, but along dimension 1, the array at index 0 has size 190 and the array at index 1 has size 159",
+  "weights": {}
+}
+```

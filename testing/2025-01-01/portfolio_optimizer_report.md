@@ -1,0 +1,1532 @@
+# Multithreaded Batch Portfolio Report (2025-01-01)
+
+- Runtime: 01:08:26 (4106.17s)
+
+## Decisions
+
+- A: BUY
+- AAPL: BUY
+- ABBV: BUY
+- ABNB: BUY
+- ABT: BUY
+- ACGL: BUY
+- ACN: BUY
+- ADBE: BUY
+- ADI: BUY
+- ADM: BUY
+- ADP: BUY
+- ADSK: BUY
+- AEE: BUY
+- AEP: BUY
+- AES: BUY
+- AFL: HOLD
+- AIG: HOLD
+- AIZ: BUY
+- AJG: HOLD
+- AKAM: BUY
+- ALB: BUY
+- ALGN: BUY
+- ALL: BUY
+- ALLE: BUY
+- AMAT: BUY
+- AMCR: BUY
+- AMD: HOLD
+- AME: BUY
+- AMGN: BUY
+- AMP: BUY
+- AMT: HOLD
+- AMZN: BUY
+- ANET: HOLD
+- ANSS: BUY
+- AON: BUY
+- AOS: BUY
+- APA: HOLD
+- APD: HOLD
+- APH: BUY
+- APO: BUY
+- APTV: BUY
+- ARE: BUY
+- ATO: BUY
+- AVB: BUY
+- AVGO: BUY
+- AVY: BUY
+- AWK: BUY
+- AXON: BUY
+- AXP: BUY
+- AZO: BUY
+- BA: BUY
+- BAC: BUY
+- BALL: BUY
+- BAX: BUY
+- BBY: BUY
+- BDX: BUY
+- BEN: BUY
+- BF.B: BUY
+- BG: BUY
+- BIIB: BUY
+- BK: BUY
+- BKNG: BUY
+- BKR: BUY
+- BLDR: BUY
+- BLK: BUY
+- BMY: BUY
+- BR: BUY
+- BRK.B: BUY
+- BRO: HOLD
+- BSX: BUY
+- BWA: BUY
+- BX: HOLD
+- BXP: BUY
+- C: BUY
+- CAG: BUY
+- CAH: BUY
+- CARR: BUY
+- CAT: BUY
+- CB: BUY
+- CBOE: BUY
+- CBRE: BUY
+- CCI: HOLD
+- CCL: HOLD
+- CDNS: BUY
+- CDW: BUY
+- CE: BUY
+- CEG: BUY
+- CF: BUY
+- CFG: BUY
+- CHD: HOLD
+- CHRW: BUY
+- CHTR: BUY
+- CI: BUY
+- CINF: BUY
+- CL: BUY
+- CLX: HOLD
+- CMCSA: BUY
+- CME: BUY
+- CMG: BUY
+- CMI: BUY
+- CMS: BUY
+- CNC: BUY
+- CNP: BUY
+- COF: BUY
+- COO: HOLD
+- COP: BUY
+- COR: BUY
+- COST: BUY
+- CPAY: BUY
+- CPB: BUY
+- CPRT: BUY
+- CPT: BUY
+- CRL: BUY
+- CRM: BUY
+- CRWD: BUY
+- CSCO: BUY
+- CSGP: HOLD
+- CSX: HOLD
+- CTAS: BUY
+- CTRA: BUY
+- CTSH: BUY
+- CTVA: BUY
+- CVS: BUY
+- CVX: BUY
+- CZR: BUY
+- D: BUY
+- DAL: BUY
+- DAY: BUY
+- DD: BUY
+- DE: BUY
+- DECK: BUY
+- DELL: BUY
+- DFS: HOLD
+- DG: HOLD
+- DGX: BUY
+- DHI: BUY
+- DHR: BUY
+- DIS: BUY
+- DLR: BUY
+- DLTR: BUY
+- DOC: BUY
+- DOV: HOLD
+- DOW: BUY
+- DPZ: BUY
+- DRI: BUY
+- DTE: HOLD
+- DUK: BUY
+- DVA: BUY
+- DVN: HOLD
+- DXCM: HOLD
+- EA: BUY
+- EBAY: BUY
+- ECL: HOLD
+- ED: BUY
+- EFX: BUY
+- EG: BUY
+- EIX: BUY
+- EL: BUY
+- ELV: BUY
+- EMN: BUY
+- EMR: BUY
+- ENPH: BUY
+- EOG: BUY
+- EPAM: HOLD
+- EQIX: BUY
+- EQR: BUY
+- EQT: BUY
+- ERIE: BUY
+- ES: BUY
+- ESS: HOLD
+- ETN: BUY
+- ETR: BUY
+- EVRG: BUY
+- EW: BUY
+- EXC: BUY
+- EXPD: BUY
+- EXPE: BUY
+- EXR: BUY
+- F: BUY
+- FANG: BUY
+- FAST: BUY
+- FCX: BUY
+- FDS: BUY
+- FDX: BUY
+- FE: BUY
+- FFIV: BUY
+- FI: BUY
+- FICO: BUY
+- FIS: BUY
+- FITB: BUY
+- FMC: BUY
+- FOX: BUY
+- FOXA: HOLD
+- FRT: BUY
+- FSLR: BUY
+- FTNT: BUY
+- FTV: BUY
+- GD: BUY
+- GDDY: HOLD
+- GE: BUY
+- GEHC: BUY
+- GEN: BUY
+- GEV: BUY
+- GILD: BUY
+- GIS: BUY
+- GL: BUY
+- GLW: BUY
+- GM: BUY
+- GNRC: BUY
+- GOOG: BUY
+- GOOGL: BUY
+- GPC: BUY
+- GPN: BUY
+- GRMN: BUY
+- GS: BUY
+- GWW: BUY
+- HAL: BUY
+- HAS: HOLD
+- HBAN: BUY
+- HCA: BUY
+- HD: BUY
+- HES: BUY
+- HIG: BUY
+- HII: BUY
+- HLT: HOLD
+- HOLX: BUY
+- HON: BUY
+- HPE: HOLD
+- HPQ: BUY
+- HRL: HOLD
+- HSIC: BUY
+- HST: BUY
+- HSY: BUY
+- HUBB: BUY
+- HUM: BUY
+- HWM: HOLD
+- IBM: BUY
+- ICE: BUY
+- IDXX: BUY
+- IEX: BUY
+- IFF: BUY
+- INCY: BUY
+- INTC: BUY
+- INTU: BUY
+- INVH: BUY
+- IP: HOLD
+- IPG: BUY
+- IQV: BUY
+- IR: BUY
+- IRM: BUY
+- ISRG: BUY
+- IT: BUY
+- ITW: BUY
+- IVZ: BUY
+- J: BUY
+- JBHT: BUY
+- JBL: BUY
+- JCI: BUY
+- JKHY: BUY
+- JNJ: BUY
+- JNPR: HOLD
+- JPM: BUY
+- K: BUY
+- KDP: BUY
+- KEY: BUY
+- KEYS: BUY
+- KHC: BUY
+- KIM: BUY
+- KKR: BUY
+- KLAC: BUY
+- KMB: BUY
+- KMI: BUY
+- KMX: HOLD
+- KO: BUY
+- KR: BUY
+- KVUE: BUY
+- L: BUY
+- LDOS: BUY
+- LEN: BUY
+- LH: BUY
+- LHX: BUY
+- LII: BUY
+- LIN: HOLD
+- LKQ: BUY
+- LLY: BUY
+- LMT: BUY
+- LNT: BUY
+- LOW: BUY
+- LRCX: BUY
+- LULU: BUY
+- LUV: BUY
+- LVS: BUY
+- LW: BUY
+- LYB: BUY
+- LYV: BUY
+- MA: BUY
+- MAA: HOLD
+- MAR: BUY
+- MAS: HOLD
+- MCD: BUY
+- MCHP: BUY
+- MCK: BUY
+- MCO: BUY
+- MDLZ: BUY
+- MDT: BUY
+- MET: BUY
+- META: BUY
+- MGM: BUY
+- MHK: BUY
+- MKC: HOLD
+- MKTX: BUY
+- MLM: HOLD
+- MMC: HOLD
+- MMM: BUY
+- MNST: BUY
+- MO: BUY
+- MOH: BUY
+- MOS: BUY
+- MPC: BUY
+- MPWR: BUY
+- MRK: BUY
+- MRNA: BUY
+- MS: HOLD
+- MSCI: BUY
+- MSFT: HOLD
+- MSI: BUY
+- MTB: BUY
+- MTCH: BUY
+- MTD: BUY
+- MU: BUY
+- NCLH: BUY
+- NDAQ: BUY
+- NDSN: BUY
+- NEE: BUY
+- NEM: BUY
+- NFLX: HOLD
+- NI: BUY
+- NKE: BUY
+- NOC: BUY
+- NOW: BUY
+- NRG: BUY
+- NSC: BUY
+- NTAP: BUY
+- NTRS: HOLD
+- NUE: BUY
+- NVDA: BUY
+- NVR: BUY
+- NWS: BUY
+- NWSA: BUY
+- NXPI: BUY
+- O: HOLD
+- ODFL: BUY
+- OKE: BUY
+- OMC: BUY
+- ON: BUY
+- ORCL: BUY
+- ORLY: BUY
+- OTIS: BUY
+- OXY: BUY
+- PANW: BUY
+- PARA: BUY
+- PAYC: BUY
+- PAYX: BUY
+- PCAR: BUY
+- PCG: BUY
+- PEG: HOLD
+- PEP: HOLD
+- PFE: BUY
+- PFG: BUY
+- PG: BUY
+- PGR: BUY
+- PH: BUY
+- PHM: BUY
+- PKG: BUY
+- PLD: BUY
+- PLTR: BUY
+- PM: BUY
+- PNC: HOLD
+- PNR: BUY
+- PNW: HOLD
+- PODD: BUY
+- POOL: BUY
+- PPG: BUY
+- PPL: BUY
+- PRU: BUY
+- PSA: BUY
+- PSX: BUY
+- PTC: HOLD
+- PWR: BUY
+- PYPL: BUY
+- QCOM: HOLD
+- RCL: BUY
+- REG: BUY
+- REGN: BUY
+- RF: BUY
+- RJF: BUY
+- RL: BUY
+- RMD: BUY
+- ROK: BUY
+- ROL: HOLD
+- ROP: BUY
+- ROST: BUY
+- RSG: BUY
+- RTX: HOLD
+- RVTY: BUY
+- SBAC: BUY
+- SBUX: BUY
+- SCHW: BUY
+- SHW: BUY
+- SJM: BUY
+- SLB: BUY
+- SMCI: BUY
+- SNA: BUY
+- SNPS: BUY
+- SO: BUY
+- SOLV: HOLD
+- SPG: BUY
+- SPGI: BUY
+- SRE: BUY
+- STE: BUY
+- STLD: BUY
+- STT: BUY
+- STX: BUY
+- STZ: BUY
+- SW: BUY
+- SWK: BUY
+- SWKS: BUY
+- SYF: BUY
+- SYK: HOLD
+- SYY: BUY
+- T: BUY
+- TAP: BUY
+- TDG: BUY
+- TDY: BUY
+- TECH: HOLD
+- TEL: BUY
+- TER: HOLD
+- TFC: BUY
+- TFX: BUY
+- TGT: BUY
+- TJX: BUY
+- TMO: BUY
+- TMUS: BUY
+- TPL: BUY
+- TPR: BUY
+- TRGP: HOLD
+- TRMB: HOLD
+- TROW: BUY
+- TRV: BUY
+- TSCO: BUY
+- TSLA: BUY
+- TSN: BUY
+- TT: BUY
+- TTWO: BUY
+- TXN: BUY
+- TXT: BUY
+- TYL: BUY
+- UAL: BUY
+- UBER: BUY
+- UDR: BUY
+- UHS: BUY
+- ULTA: BUY
+- UNH: HOLD
+- UNP: BUY
+- UPS: BUY
+- URI: BUY
+- USB: BUY
+- V: BUY
+- VICI: BUY
+- VLO: BUY
+- VLTO: BUY
+- VMC: BUY
+- VRSK: BUY
+- VRSN: BUY
+- VRTX: BUY
+- VST: BUY
+- VTR: BUY
+- VTRS: HOLD
+- VZ: BUY
+- WAB: BUY
+- WAT: HOLD
+- WBA: HOLD
+- WBD: HOLD
+- WDAY: HOLD
+- WDC: HOLD
+- WEC: HOLD
+- WELL: HOLD
+- WFC: HOLD
+- WM: HOLD
+- WMB: HOLD
+- WMT: HOLD
+- WRB: HOLD
+- WST: HOLD
+- WTW: HOLD
+- WY: HOLD
+- WYNN: HOLD
+- XEL: HOLD
+- XOM: HOLD
+- XYL: HOLD
+- YUM: HOLD
+- ZBH: HOLD
+- ZBRA: HOLD
+- ZTS: HOLD
+
+## LLM Views (bounded)
+
+- A: 0.02
+- AAPL: 0.02
+- ABBV: 0.02
+- ABNB: 0.02
+- ABT: 0.02
+- ACGL: 0.02
+- ACN: 0.02
+- ADBE: 0.02
+- ADI: 0.02
+- ADM: 0.02
+- ADP: 0.02
+- ADSK: 0.02
+- AEE: 0.02
+- AEP: 0.02
+- AES: 0.02
+- AFL: 0.0
+- AIG: 0.0
+- AIZ: 0.02
+- AJG: 0.0
+- AKAM: 0.02
+- ALB: 0.02
+- ALGN: 0.02
+- ALL: 0.02
+- ALLE: 0.02
+- AMAT: 0.02
+- AMCR: 0.02
+- AMD: 0.0
+- AME: 0.02
+- AMGN: 0.02
+- AMP: 0.02
+- AMT: 0.0
+- AMZN: 0.02
+- ANET: 0.0
+- ANSS: 0.02
+- AON: 0.02
+- AOS: 0.02
+- APA: 0.0
+- APD: 0.0
+- APH: 0.02
+- APO: 0.02
+- APTV: 0.02
+- ARE: 0.02
+- ATO: 0.02
+- AVB: 0.02
+- AVGO: 0.02
+- AVY: 0.02
+- AWK: 0.02
+- AXON: 0.02
+- AXP: 0.02
+- AZO: 0.02
+- BA: 0.02
+- BAC: 0.02
+- BALL: 0.02
+- BAX: 0.02
+- BBY: 0.02
+- BDX: 0.02
+- BEN: 0.02
+- BF.B: 0.02
+- BG: 0.02
+- BIIB: 0.02
+- BK: 0.02
+- BKNG: 0.02
+- BKR: 0.02
+- BLDR: 0.02
+- BLK: 0.02
+- BMY: 0.02
+- BR: 0.02
+- BRK.B: 0.02
+- BRO: 0.0
+- BSX: 0.02
+- BWA: 0.02
+- BX: 0.0
+- BXP: 0.02
+- C: 0.02
+- CAG: 0.02
+- CAH: 0.02
+- CARR: 0.02
+- CAT: 0.02
+- CB: 0.02
+- CBOE: 0.02
+- CBRE: 0.02
+- CCI: 0.0
+- CCL: 0.0
+- CDNS: 0.02
+- CDW: 0.02
+- CE: 0.02
+- CEG: 0.02
+- CF: 0.02
+- CFG: 0.02
+- CHD: 0.0
+- CHRW: 0.02
+- CHTR: 0.02
+- CI: 0.02
+- CINF: 0.02
+- CL: 0.02
+- CLX: 0.0
+- CMCSA: 0.02
+- CME: 0.02
+- CMG: 0.02
+- CMI: 0.02
+- CMS: 0.02
+- CNC: 0.02
+- CNP: 0.02
+- COF: 0.02
+- COO: 0.0
+- COP: 0.02
+- COR: 0.02
+- COST: 0.02
+- CPAY: 0.02
+- CPB: 0.02
+- CPRT: 0.02
+- CPT: 0.02
+- CRL: 0.02
+- CRM: 0.02
+- CRWD: 0.02
+- CSCO: 0.02
+- CSGP: 0.0
+- CSX: 0.0
+- CTAS: 0.02
+- CTRA: 0.02
+- CTSH: 0.02
+- CTVA: 0.02
+- CVS: 0.02
+- CVX: 0.02
+- CZR: 0.02
+- D: 0.02
+- DAL: 0.02
+- DAY: 0.02
+- DD: 0.02
+- DE: 0.02
+- DECK: 0.02
+- DELL: 0.02
+- DFS: 0.0
+- DG: 0.0
+- DGX: 0.02
+- DHI: 0.02
+- DHR: 0.02
+- DIS: 0.02
+- DLR: 0.02
+- DLTR: 0.02
+- DOC: 0.02
+- DOV: 0.0
+- DOW: 0.02
+- DPZ: 0.02
+- DRI: 0.02
+- DTE: 0.0
+- DUK: 0.02
+- DVA: 0.02
+- DVN: 0.0
+- DXCM: 0.0
+- EA: 0.02
+- EBAY: 0.02
+- ECL: 0.0
+- ED: 0.02
+- EFX: 0.02
+- EG: 0.02
+- EIX: 0.02
+- EL: 0.02
+- ELV: 0.02
+- EMN: 0.02
+- EMR: 0.02
+- ENPH: 0.02
+- EOG: 0.02
+- EPAM: 0.0
+- EQIX: 0.02
+- EQR: 0.02
+- EQT: 0.02
+- ERIE: 0.02
+- ES: 0.02
+- ESS: 0.0
+- ETN: 0.02
+- ETR: 0.02
+- EVRG: 0.02
+- EW: 0.02
+- EXC: 0.02
+- EXPD: 0.02
+- EXPE: 0.02
+- EXR: 0.02
+- F: 0.02
+- FANG: 0.02
+- FAST: 0.02
+- FCX: 0.02
+- FDS: 0.02
+- FDX: 0.02
+- FE: 0.02
+- FFIV: 0.02
+- FI: 0.02
+- FICO: 0.02
+- FIS: 0.02
+- FITB: 0.02
+- FMC: 0.02
+- FOX: 0.02
+- FOXA: 0.0
+- FRT: 0.02
+- FSLR: 0.02
+- FTNT: 0.02
+- FTV: 0.02
+- GD: 0.02
+- GDDY: 0.0
+- GE: 0.02
+- GEHC: 0.02
+- GEN: 0.02
+- GEV: 0.02
+- GILD: 0.02
+- GIS: 0.02
+- GL: 0.02
+- GLW: 0.02
+- GM: 0.02
+- GNRC: 0.02
+- GOOG: 0.02
+- GOOGL: 0.02
+- GPC: 0.02
+- GPN: 0.02
+- GRMN: 0.02
+- GS: 0.02
+- GWW: 0.02
+- HAL: 0.02
+- HAS: 0.0
+- HBAN: 0.02
+- HCA: 0.02
+- HD: 0.02
+- HES: 0.02
+- HIG: 0.02
+- HII: 0.02
+- HLT: 0.0
+- HOLX: 0.02
+- HON: 0.02
+- HPE: 0.0
+- HPQ: 0.02
+- HRL: 0.0
+- HSIC: 0.02
+- HST: 0.02
+- HSY: 0.02
+- HUBB: 0.02
+- HUM: 0.02
+- HWM: 0.0
+- IBM: 0.02
+- ICE: 0.02
+- IDXX: 0.02
+- IEX: 0.02
+- IFF: 0.02
+- INCY: 0.02
+- INTC: 0.02
+- INTU: 0.02
+- INVH: 0.02
+- IP: 0.0
+- IPG: 0.02
+- IQV: 0.02
+- IR: 0.02
+- IRM: 0.02
+- ISRG: 0.02
+- IT: 0.02
+- ITW: 0.02
+- IVZ: 0.02
+- J: 0.02
+- JBHT: 0.02
+- JBL: 0.02
+- JCI: 0.02
+- JKHY: 0.02
+- JNJ: 0.02
+- JNPR: 0.0
+- JPM: 0.02
+- K: 0.02
+- KDP: 0.02
+- KEY: 0.02
+- KEYS: 0.02
+- KHC: 0.02
+- KIM: 0.02
+- KKR: 0.02
+- KLAC: 0.02
+- KMB: 0.02
+- KMI: 0.02
+- KMX: 0.0
+- KO: 0.02
+- KR: 0.02
+- KVUE: 0.02
+- L: 0.02
+- LDOS: 0.02
+- LEN: 0.02
+- LH: 0.02
+- LHX: 0.02
+- LII: 0.02
+- LIN: 0.0
+- LKQ: 0.02
+- LLY: 0.02
+- LMT: 0.02
+- LNT: 0.02
+- LOW: 0.02
+- LRCX: 0.02
+- LULU: 0.02
+- LUV: 0.02
+- LVS: 0.02
+- LW: 0.02
+- LYB: 0.02
+- LYV: 0.02
+- MA: 0.02
+- MAA: 0.0
+- MAR: 0.02
+- MAS: 0.0
+- MCD: 0.02
+- MCHP: 0.02
+- MCK: 0.02
+- MCO: 0.02
+- MDLZ: 0.02
+- MDT: 0.02
+- MET: 0.02
+- META: 0.02
+- MGM: 0.02
+- MHK: 0.02
+- MKC: 0.0
+- MKTX: 0.02
+- MLM: 0.0
+- MMC: 0.0
+- MMM: 0.02
+- MNST: 0.02
+- MO: 0.02
+- MOH: 0.02
+- MOS: 0.02
+- MPC: 0.02
+- MPWR: 0.02
+- MRK: 0.02
+- MRNA: 0.02
+- MS: 0.0
+- MSCI: 0.02
+- MSFT: 0.0
+- MSI: 0.02
+- MTB: 0.02
+- MTCH: 0.02
+- MTD: 0.02
+- MU: 0.02
+- NCLH: 0.02
+- NDAQ: 0.02
+- NDSN: 0.02
+- NEE: 0.02
+- NEM: 0.02
+- NFLX: 0.0
+- NI: 0.02
+- NKE: 0.02
+- NOC: 0.02
+- NOW: 0.02
+- NRG: 0.02
+- NSC: 0.02
+- NTAP: 0.02
+- NTRS: 0.0
+- NUE: 0.02
+- NVDA: 0.02
+- NVR: 0.02
+- NWS: 0.02
+- NWSA: 0.02
+- NXPI: 0.02
+- O: 0.0
+- ODFL: 0.02
+- OKE: 0.02
+- OMC: 0.02
+- ON: 0.02
+- ORCL: 0.02
+- ORLY: 0.02
+- OTIS: 0.02
+- OXY: 0.02
+- PANW: 0.02
+- PARA: 0.02
+- PAYC: 0.02
+- PAYX: 0.02
+- PCAR: 0.02
+- PCG: 0.02
+- PEG: 0.0
+- PEP: 0.0
+- PFE: 0.02
+- PFG: 0.02
+- PG: 0.02
+- PGR: 0.02
+- PH: 0.02
+- PHM: 0.02
+- PKG: 0.02
+- PLD: 0.02
+- PLTR: 0.02
+- PM: 0.02
+- PNC: 0.0
+- PNR: 0.02
+- PNW: 0.0
+- PODD: 0.02
+- POOL: 0.02
+- PPG: 0.02
+- PPL: 0.02
+- PRU: 0.02
+- PSA: 0.02
+- PSX: 0.02
+- PTC: 0.0
+- PWR: 0.02
+- PYPL: 0.02
+- QCOM: 0.0
+- RCL: 0.02
+- REG: 0.02
+- REGN: 0.02
+- RF: 0.02
+- RJF: 0.02
+- RL: 0.02
+- RMD: 0.02
+- ROK: 0.02
+- ROL: 0.0
+- ROP: 0.02
+- ROST: 0.02
+- RSG: 0.02
+- RTX: 0.0
+- RVTY: 0.02
+- SBAC: 0.02
+- SBUX: 0.02
+- SCHW: 0.02
+- SHW: 0.02
+- SJM: 0.02
+- SLB: 0.02
+- SMCI: 0.02
+- SNA: 0.02
+- SNPS: 0.02
+- SO: 0.02
+- SOLV: 0.0
+- SPG: 0.02
+- SPGI: 0.02
+- SRE: 0.02
+- STE: 0.02
+- STLD: 0.02
+- STT: 0.02
+- STX: 0.02
+- STZ: 0.02
+- SW: 0.02
+- SWK: 0.02
+- SWKS: 0.02
+- SYF: 0.02
+- SYK: 0.0
+- SYY: 0.02
+- T: 0.02
+- TAP: 0.02
+- TDG: 0.02
+- TDY: 0.02
+- TECH: 0.0
+- TEL: 0.02
+- TER: 0.0
+- TFC: 0.02
+- TFX: 0.02
+- TGT: 0.02
+- TJX: 0.02
+- TMO: 0.02
+- TMUS: 0.02
+- TPL: 0.02
+- TPR: 0.02
+- TRGP: 0.0
+- TRMB: 0.0
+- TROW: 0.02
+- TRV: 0.02
+- TSCO: 0.02
+- TSLA: 0.02
+- TSN: 0.02
+- TT: 0.02
+- TTWO: 0.02
+- TXN: 0.02
+- TXT: 0.02
+- TYL: 0.02
+- UAL: 0.02
+- UBER: 0.02
+- UDR: 0.02
+- UHS: 0.02
+- ULTA: 0.02
+- UNH: 0.0
+- UNP: 0.02
+- UPS: 0.02
+- URI: 0.02
+- USB: 0.02
+- V: 0.02
+- VICI: 0.02
+- VLO: 0.02
+- VLTO: 0.02
+- VMC: 0.02
+- VRSK: 0.02
+- VRSN: 0.02
+- VRTX: 0.02
+- VST: 0.02
+- VTR: 0.02
+- VTRS: 0.0
+- VZ: 0.02
+- WAB: 0.02
+- WAT: 0.0
+- WBA: 0.0
+- WBD: 0.0
+- WDAY: 0.0
+- WDC: 0.0
+- WEC: 0.0
+- WELL: 0.0
+- WFC: 0.0
+- WM: 0.0
+- WMB: 0.0
+- WMT: 0.0
+- WRB: 0.0
+- WST: 0.0
+- WTW: 0.0
+- WY: 0.0
+- WYNN: 0.0
+- XEL: 0.0
+- XOM: 0.0
+- XYL: 0.0
+- YUM: 0.0
+- ZBH: 0.0
+- ZBRA: 0.0
+- ZTS: 0.0
+
+## Resizing Summary
+
+## Trades
+
+- A: no change
+- AAPL: no change
+- ABBV: no change
+- ABNB: no change
+- ABT: no change
+- ACGL: no change
+- ACN: no change
+- ADBE: no change
+- ADI: no change
+- ADM: no change
+- ADP: no change
+- ADSK: no change
+- AEE: no change
+- AEP: no change
+- AES: no change
+- AFL: no change
+- AIG: no change
+- AIZ: no change
+- AJG: no change
+- AKAM: no change
+- ALB: no change
+- ALGN: no change
+- ALL: no change
+- ALLE: no change
+- AMAT: no change
+- AMCR: no change
+- AMD: no change
+- AME: no change
+- AMGN: no change
+- AMP: no change
+- AMT: no change
+- AMZN: no change
+- ANET: no change
+- ANSS: no change
+- AON: no change
+- AOS: no change
+- APA: no change
+- APD: no change
+- APH: no change
+- APO: no change
+- APTV: no change
+- ARE: no change
+- ATO: no change
+- AVB: no change
+- AVGO: no change
+- AVY: no change
+- AWK: no change
+- AXON: no change
+- AXP: no change
+- AZO: no change
+- BA: no change
+- BAC: no change
+- BALL: no change
+- BAX: no change
+- BBY: no change
+- BDX: no change
+- BEN: no change
+- BF.B: no change
+- BG: no change
+- BIIB: no change
+- BK: no change
+- BKNG: no change
+- BKR: no change
+- BLDR: no change
+- BLK: no change
+- BMY: no change
+- BR: no change
+- BRK.B: no change
+- BRO: no change
+- BSX: no change
+- BWA: no change
+- BX: no change
+- BXP: no change
+- C: no change
+- CAG: no change
+- CAH: no change
+- CARR: no change
+- CAT: no change
+- CB: no change
+- CBOE: no change
+- CBRE: no change
+- CCI: no change
+- CCL: no change
+- CDNS: no change
+- CDW: no change
+- CE: no change
+- CEG: no change
+- CF: no change
+- CFG: no change
+- CHD: no change
+- CHRW: no change
+- CHTR: no change
+- CI: no change
+- CINF: no change
+- CL: no change
+- CLX: no change
+- CMCSA: no change
+- CME: no change
+- CMG: no change
+- CMI: no change
+- CMS: no change
+- CNC: no change
+- CNP: no change
+- COF: no change
+- COO: no change
+- COP: no change
+- COR: no change
+- COST: no change
+- CPAY: no change
+- CPB: no change
+- CPRT: no change
+- CPT: no change
+- CRL: no change
+- CRM: no change
+- CRWD: no change
+- CSCO: no change
+- CSGP: no change
+- CSX: no change
+- CTAS: no change
+- CTRA: no change
+- CTSH: no change
+- CTVA: no change
+- CVS: no change
+- CVX: no change
+- CZR: no change
+- D: no change
+- DAL: no change
+- DAY: no change
+- DD: no change
+- DE: no change
+- DECK: no change
+- DELL: no change
+- DFS: no change
+- DG: no change
+- DGX: no change
+- DHI: no change
+- DHR: no change
+- DIS: no change
+- DLR: no change
+- DLTR: no change
+- DOC: no change
+- DOV: no change
+- DOW: no change
+- DPZ: no change
+- DRI: no change
+- DTE: no change
+- DUK: no change
+- DVA: no change
+- DVN: no change
+- DXCM: no change
+- EA: no change
+- EBAY: no change
+- ECL: no change
+- ED: no change
+- EFX: no change
+- EG: no change
+- EIX: no change
+- EL: no change
+- ELV: no change
+- EMN: no change
+- EMR: no change
+- ENPH: no change
+- EOG: no change
+- EPAM: no change
+- EQIX: no change
+- EQR: no change
+- EQT: no change
+- ERIE: no change
+- ES: no change
+- ESS: no change
+- ETN: no change
+- ETR: no change
+- EVRG: no change
+- EW: no change
+- EXC: no change
+- EXPD: no change
+- EXPE: no change
+- EXR: no change
+- F: no change
+- FANG: no change
+- FAST: no change
+- FCX: no change
+- FDS: no change
+- FDX: no change
+- FE: no change
+- FFIV: no change
+- FI: no change
+- FICO: no change
+- FIS: no change
+- FITB: no change
+- FMC: no change
+- FOX: no change
+- FOXA: no change
+- FRT: no change
+- FSLR: no change
+- FTNT: no change
+- FTV: no change
+- GD: no change
+- GDDY: no change
+- GE: no change
+- GEHC: no change
+- GEN: no change
+- GEV: no change
+- GILD: no change
+- GIS: no change
+- GL: no change
+- GLW: no change
+- GM: no change
+- GNRC: no change
+- GOOG: no change
+- GOOGL: no change
+- GPC: no change
+- GPN: no change
+- GRMN: no change
+- GS: no change
+- GWW: no change
+- HAL: no change
+- HAS: no change
+- HBAN: no change
+- HCA: no change
+- HD: no change
+- HES: no change
+- HIG: no change
+- HII: no change
+- HLT: no change
+- HOLX: no change
+- HON: no change
+- HPE: no change
+- HPQ: no change
+- HRL: no change
+- HSIC: no change
+- HST: no change
+- HSY: no change
+- HUBB: no change
+- HUM: no change
+- HWM: no change
+- IBM: no change
+- ICE: no change
+- IDXX: no change
+- IEX: no change
+- IFF: no change
+- INCY: no change
+- INTC: no change
+- INTU: no change
+- INVH: no change
+- IP: no change
+- IPG: no change
+- IQV: no change
+- IR: no change
+- IRM: no change
+- ISRG: no change
+- IT: no change
+- ITW: no change
+- IVZ: no change
+- J: no change
+- JBHT: no change
+- JBL: no change
+- JCI: no change
+- JKHY: no change
+- JNJ: no change
+- JNPR: no change
+- JPM: no change
+- K: no change
+- KDP: no change
+- KEY: no change
+- KEYS: no change
+- KHC: no change
+- KIM: no change
+- KKR: no change
+- KLAC: no change
+- KMB: no change
+- KMI: no change
+- KMX: no change
+- KO: no change
+- KR: no change
+- KVUE: no change
+- L: no change
+- LDOS: no change
+- LEN: no change
+- LH: no change
+- LHX: no change
+- LII: no change
+- LIN: no change
+- LKQ: no change
+- LLY: no change
+- LMT: no change
+- LNT: no change
+- LOW: no change
+- LRCX: no change
+- LULU: no change
+- LUV: no change
+- LVS: no change
+- LW: no change
+- LYB: no change
+- LYV: no change
+- MA: no change
+- MAA: no change
+- MAR: no change
+- MAS: no change
+- MCD: no change
+- MCHP: no change
+- MCK: no change
+- MCO: no change
+- MDLZ: no change
+- MDT: no change
+- MET: no change
+- META: no change
+- MGM: no change
+- MHK: no change
+- MKC: no change
+- MKTX: no change
+- MLM: no change
+- MMC: no change
+- MMM: no change
+- MNST: no change
+- MO: no change
+- MOH: no change
+- MOS: no change
+- MPC: no change
+- MPWR: no change
+- MRK: no change
+- MRNA: no change
+- MS: no change
+- MSCI: no change
+- MSFT: no change
+- MSI: no change
+- MTB: no change
+- MTCH: no change
+- MTD: no change
+- MU: no change
+- NCLH: no change
+- NDAQ: no change
+- NDSN: no change
+- NEE: no change
+- NEM: no change
+- NFLX: no change
+- NI: no change
+- NKE: no change
+- NOC: no change
+- NOW: no change
+- NRG: no change
+- NSC: no change
+- NTAP: no change
+- NTRS: no change
+- NUE: no change
+- NVDA: no change
+- NVR: no change
+- NWS: no change
+- NWSA: no change
+- NXPI: no change
+- O: no change
+- ODFL: no change
+- OKE: no change
+- OMC: no change
+- ON: no change
+- ORCL: no change
+- ORLY: no change
+- OTIS: no change
+- OXY: no change
+- PANW: no change
+- PARA: no change
+- PAYC: no change
+- PAYX: no change
+- PCAR: no change
+- PCG: no change
+- PEG: no change
+- PEP: no change
+- PFE: no change
+- PFG: no change
+- PG: no change
+- PGR: no change
+- PH: no change
+- PHM: no change
+- PKG: no change
+- PLD: no change
+- PLTR: no change
+- PM: no change
+- PNC: no change
+- PNR: no change
+- PNW: no change
+- PODD: no change
+- POOL: no change
+- PPG: no change
+- PPL: no change
+- PRU: no change
+- PSA: no change
+- PSX: no change
+- PTC: no change
+- PWR: no change
+- PYPL: no change
+- QCOM: no change
+- RCL: no change
+- REG: no change
+- REGN: no change
+- RF: no change
+- RJF: no change
+- RL: no change
+- RMD: no change
+- ROK: no change
+- ROL: no change
+- ROP: no change
+- ROST: no change
+- RSG: no change
+- RTX: no change
+- RVTY: no change
+- SBAC: no change
+- SBUX: no change
+- SCHW: no change
+- SHW: no change
+- SJM: no change
+- SLB: no change
+- SMCI: no change
+- SNA: no change
+- SNPS: no change
+- SO: no change
+- SOLV: no change
+- SPG: no change
+- SPGI: no change
+- SRE: no change
+- STE: no change
+- STLD: no change
+- STT: no change
+- STX: no change
+- STZ: no change
+- SW: no change
+- SWK: no change
+- SWKS: no change
+- SYF: no change
+- SYK: no change
+- SYY: no change
+- T: no change
+- TAP: no change
+- TDG: no change
+- TDY: no change
+- TECH: no change
+- TEL: no change
+- TER: no change
+- TFC: no change
+- TFX: no change
+- TGT: no change
+- TJX: no change
+- TMO: no change
+- TMUS: no change
+- TPL: no change
+- TPR: no change
+- TRGP: no change
+- TRMB: no change
+- TROW: no change
+- TRV: no change
+- TSCO: no change
+- TSLA: no change
+- TSN: no change
+- TT: no change
+- TTWO: no change
+- TXN: no change
+- TXT: no change
+- TYL: no change
+- UAL: no change
+- UBER: no change
+- UDR: no change
+- UHS: no change
+- ULTA: no change
+- UNH: no change
+- UNP: no change
+- UPS: no change
+- URI: no change
+- USB: no change
+- V: no change
+- VICI: no change
+- VLO: no change
+- VLTO: no change
+- VMC: no change
+- VRSK: no change
+- VRSN: no change
+- VRTX: no change
+- VST: no change
+- VTR: no change
+- VTRS: no change
+- VZ: no change
+- WAB: no change
+- WAT: no change
+- WBA: no change
+- WBD: no change
+- WDAY: no change
+- WDC: no change
+- WEC: no change
+- WELL: no change
+- WFC: no change
+- WM: no change
+- WMB: no change
+- WMT: no change
+- WRB: no change
+- WST: no change
+- WTW: no change
+- WY: no change
+- WYNN: no change
+- XEL: no change
+- XOM: no change
+- XYL: no change
+- YUM: no change
+- ZBH: no change
+- ZBRA: no change
+- ZTS: no change
+
+## Risk Parity Reference
+
+```json
+{
+  "error": "No tickers found in portfolio",
+  "weights": {}
+}
+```
